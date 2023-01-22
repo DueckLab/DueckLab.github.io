@@ -5,7 +5,7 @@ layout: about
 
 # DueckLab (aka Team Awesome)
 
-![Amylou](/assets/images/Dueck%2C_Amylou_C%2C_PhD_14259869_201209120340.jpg =100x)
+<img src="/assets/images/Dueck.jpg" alt="amylou" width="100"/>
 
 Amylou Dueck, PhD
 
