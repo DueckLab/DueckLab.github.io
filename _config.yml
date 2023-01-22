@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 lang: en-US
 title: DueckLab
-email:
+email: 
 description: Home of Team Awesome
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -23,9 +23,9 @@ author:
   name: Brie Noble
   twitter:
   picture:
-twitter_username: biostatgrl
+twitter_username: BiostatGirl
 github_username: DueckLab
-logo: /assets/images/DueckLablogo.png
+logo: /assets/images/logo.png
 search: true
 search_full_content: true # true, false (default)
 search_provider: # lunr (default), algolia
