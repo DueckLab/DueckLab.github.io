@@ -16,18 +16,18 @@
 lang: en-US
 title: DueckLab
 email:
-description: Super Awesomeness will be here
+description: Home of Team Awesome
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Brie Noble
   twitter:
   picture:
-twitter_username:
-github_username:
-logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
-search_full_content: false # true, false (default)
+twitter_username: biostatgrl
+github_username: DueckLab
+logo: /assets/images/DueckLablogo.png
+search: true
+search_full_content: true # true, false (default)
 search_provider: # lunr (default), algolia
 algolia:
   application_id: # YOUR_APPLICATION_ID
