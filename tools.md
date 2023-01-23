@@ -3,11 +3,9 @@ title: "Tools"
 layout: page
 ---
 
-### ProAE
+<img width="150" alt="ProAE" src="/assets/images/ProAE_no_background.png">
 
-<img width="100" alt="ProAE" src="/assets/images/ProAE_no_background.png">
-
-A collection of tools to facilitate standardized analysis and graphical procedures when using PRO-CTCAE data (available in SAS and R programming languages). Scoring applications, statistical tables, graphical approaches, summary measure applications, and missing data analysis approaches are available.
+ProAE is a collection of tools to facilitate standardized analysis and graphical procedures when using PRO-CTCAE data (available as R package and SAS macros). Scoring applications, statistical tables, graphical approaches, summary measure applications, and missing data analysis approaches are available.
 
 [CRAN documentation](https://CRAN.R-project.org/package=ProAE)
 
