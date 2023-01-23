@@ -9,4 +9,5 @@ introduction: |
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="200" alt="ProAE" src="/assets/images/ProAE_no_background.png">  [Tools and Resources](https://duecklab.github.io/tools) | | |  
+|<img width="200" alt="ProAE" src="/assets/images/ProAE_no_background.png"> 
+[Tools and Resources](https://duecklab.github.io/tools) |  | |  
