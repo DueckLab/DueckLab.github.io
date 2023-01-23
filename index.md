@@ -5,5 +5,13 @@ alt_title: "Welcome to Dueck Lab"
 sub_title: 
 image: /assets/images/HeroImage.jpeg
 introduction: |
-   Dueck Lab is a team of dedicated data lovers committed to developing new methods to analyze and visualize patient-reported outcomes (PROs) in cancer research. Here you will find the latest tools and best practices for scoring and summarizing PRO-CTCAE and other PROs.  
+
+actions:
+  - label: "Tools and Resources"
+    icon: "assets/images/ProAE_no_background.png"
+    url: "https://DueckLab.github.io/tools"
+  - label: "Download"
+    icon: download
+    url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
+
 ---
