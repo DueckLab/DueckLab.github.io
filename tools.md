@@ -1,14 +1,13 @@
 ---
 title: "Tools"
-layout: default
+layout: page
 ---
 
-Tools
 
 <details>
   <summary>Analytic Tools </summary>
   
-  - ### ProAE
+  ### ProAE
 
   <img width="200" alt="ProAE" src="/assets/images/ProAE_no_background.png">
   
