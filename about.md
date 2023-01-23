@@ -16,5 +16,6 @@ Team Members
 - Brenda Ginos, MS
 - Brie Noble
 - Molly Voss
+- Minji Lee
 
 
