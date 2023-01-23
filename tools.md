@@ -3,6 +3,8 @@ title: "Tools"
 layout: page
 ---
 
+### ProAE
+[CRAN doucmentation](https://CRAN.R-project.org/package=ProAE)
 
 <details>
   <summary>Analytic Tools </summary>
