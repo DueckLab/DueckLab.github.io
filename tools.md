@@ -1,5 +1,5 @@
 ---
-title: "Tools"
+title: "Resources and Tools"
 layout: page
 ---
 
