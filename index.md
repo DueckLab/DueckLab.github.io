@@ -18,13 +18,3 @@ introduction: |
 <button onlick="Publications"><a href="https://duecklab.github.io/publications"> Publications</a></button>
 
 <button onlick="Links"><a href="https://duecklab.github.io/links"> Links</a></button>
-
-
-<button>Resources and Tools</button> [Resources and Tools](https://duecklab.github.io/tools) |  | |  
-
-<button>Publications</button> [Publications](https://duecklab.github.io/publications) |  | |  
-
-<button>Links</button> [Links](https://duecklab.github.io/links) |  | |  
-
-
-  
