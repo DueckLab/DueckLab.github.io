@@ -11,13 +11,13 @@ introduction: |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="200" alt="ProAE" src="/assets/images/ProAE_no_background.png"> 
 
-<button>About</button> [About](https://duecklab.github.io/about)> |  | |  
+<button>About</button> [About](https://duecklab.github.io/about)|  | |  
 
-[Resources and Tools](https://duecklab.github.io/tools) |  | |  
+<button>Resources and Tools</button> [Resources and Tools](https://duecklab.github.io/tools) |  | |  
 
-[Publications](https://duecklab.github.io/publications) |  | |  
+<button>Publications</button>[Publications](https://duecklab.github.io/publications) |  | |  
 
-[Links](https://duecklab.github.io/links) |  | |  
+<button>Links</button>[Links](https://duecklab.github.io/links) |  | |  
 
 
   
