@@ -6,8 +6,8 @@ sub_title:
 image: /assets/images/HeroImage.jpeg
 introduction: |
 ---
-||||:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="200" alt="ProAE" src="/assets/images/ProAE_no_background.png"> 
+<p align="center"><img width="200" alt="ProAE" src="/assets/images/ProAE_no_background.png"> 
+</p>
 ---
 
 <button onlick="About"><a href="https://duecklab.github.io/about"> About</a></button>
