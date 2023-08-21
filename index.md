@@ -11,7 +11,7 @@ introduction: |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="200" alt="ProAE" src="/assets/images/ProAE_no_background.png"> 
 
-<button>About</button> <script src=(https://duecklab.github.io/about)> |  | |  
+<button>About</button> [About](https://duecklab.github.io/about)> |  | |  
 
 [Resources and Tools](https://duecklab.github.io/tools) |  | |  
 
