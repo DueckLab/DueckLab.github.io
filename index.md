@@ -19,4 +19,5 @@ introduction: |
 
 [Links](https://duecklab.github.io/links) |  | |  
 
-<button>About</button>
+<button><"https://duecklab.github.io/about">About</button>
+  
