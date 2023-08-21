@@ -11,7 +11,7 @@ introduction: |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="200" alt="ProAE" src="/assets/images/ProAE_no_background.png"> 
 
-[About](https://duecklab.github.io/about) |  | |  
+<button>About</button> <script src=(https://duecklab.github.io/about)> |  | |  
 
 [Resources and Tools](https://duecklab.github.io/tools) |  | |  
 
@@ -19,6 +19,5 @@ introduction: |
 
 [Links](https://duecklab.github.io/links) |  | |  
 
-<button>About</button>
-<a href="https://duecklab.github.io/about" class="button" id=About</a>
+
   
