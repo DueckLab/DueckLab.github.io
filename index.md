@@ -4,11 +4,6 @@ paginate: true
 alt_title: "Welcome to Dueck Lab"
 sub_title: 
 image: /assets/images/HeroImage.jpeg
-  hero {
-  width: 100%;
-  height: 150px;
-  }
-
 introduction: |
 
 ---
