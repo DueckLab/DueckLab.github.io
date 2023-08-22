@@ -4,13 +4,6 @@ paginate: true
 alt_title: "Welcome to Dueck Lab"
 sub_title: 
 image: /assets/images/HeroImage.jpeg
-img {
-    display: block;
-    max-width: 75%;
-    max-height: 75%;
-    width: auto;
-    height: auto;
-}
 introduction: |
 ---
 <p align="center"><img width="200" alt="ProAE" src="/assets/images/ProAE_no_background.png"> 
