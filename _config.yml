@@ -84,8 +84,3 @@ defaults:
       layout: post
       read_time: true
 
-
-
-```yaml
-  google_analytics: G-RR2YH5HMBL
-```
