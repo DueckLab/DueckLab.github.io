@@ -104,7 +104,7 @@ layout: page
 <details open>
   <summary><b>Rare diseases:</b></summary>
   
-  [Boyd et al, 2016]>(https://pubmed.ncbi.nlm.nih.gov/26868354/)
+  [Boyd et al, 2016](https://pubmed.ncbi.nlm.nih.gov/26868354/)
   
   [Blay et al, 2016](https://pubmed.ncbi.nlm.nih.gov/26868355/)
   
