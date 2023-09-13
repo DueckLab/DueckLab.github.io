@@ -40,7 +40,7 @@ We have categorized notable and foundational publications to give more informati
 
   <a href="https://pubmed.ncbi.nlm.nih.gov/30985599/">Zahrieh et al, 2019</a><br>
 
-  <a href="">https://pubmed.ncbi.nlm.nih.gov/30985600/">Barbera & Moody, 2019</a><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/30985600/">Barbera & Moody, 2019</a><br>
 
   <a href="https://pubmed.ncbi.nlm.nih.gov/30985601/">Girgis et al, 2019</a><br>
     
@@ -75,7 +75,7 @@ We have categorized notable and foundational publications to give more informati
   <a href="https://pubmed.ncbi.nlm.nih.gov/26892667/">Bennett et al, 2016</a><br><br> 
   
   Assessment of patient recall from 1 to 4 weeks:<br>  
-  <a href=https://pubmed.ncbi.nlm.nih.gov/28545337/"">Mendoza et al, 2017</a><br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/28545337/">Mendoza et al, 2017</a><br><br>
     
   Pediatric (and proxy) PRO-CTCAE:<br>  
   <a href="https://pubmed.ncbi.nlm.nih.gov/28062347/">Reeve et al, 2017</a> <br><br>
