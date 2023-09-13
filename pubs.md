@@ -14,7 +14,7 @@ layout: page
   
   
   CONSORT-PRO extension:  
-  [calvert et al, 2013](https://pubmed.ncbi.nlm.nih.gov/23443445/)
+  [Calvert et al, 2013](https://pubmed.ncbi.nlm.nih.gov/23443445/)
 
   
   PRO-cision Medicine Toolkit (Medical Care edition focused on PROs implemented in clinical practice):
@@ -130,11 +130,11 @@ layout: page
 
 <details open>
   <summary><b>Rare diseases:</b></summary>
-  
+  ---
   [Boyd et al, 2016](https://pubmed.ncbi.nlm.nih.gov/26868354/)
-  
+  ---
   [Blay et al, 2016](https://pubmed.ncbi.nlm.nih.gov/26868355/)
-  
+  ---
   [Billingham et al, 2016](https://pubmed.ncbi.nlm.nih.gov/26868356/)
 
 </details>
