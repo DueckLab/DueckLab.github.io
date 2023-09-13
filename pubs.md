@@ -9,9 +9,7 @@ We have categorized notable and foundational publications to give more informati
   <summary><b>Patient-reported outcomes (PROs):</b></summary>
 
   SPIRIT-PRO extension (PRO-specific protocol guidance):<br>  
-  [Calvert et al, 2018](https://pubmed.ncbi.nlm.nih.gov/29411037/)<br><br>
-  
-  <a href="https://pubmed.ncbi.nlm.nih.gov/29411037/">Calvert et al, 2018</a>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/29411037/">Calvert et al, 2018</a> <br><br>
   
   SISAQOL recommendations (statistical standards for PRO data in randomized trials):<br>  
   [Coens et al, 2020](https://pubmed.ncbi.nlm.nih.gov/32007209/)<br><br>
