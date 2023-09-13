@@ -2,6 +2,9 @@
 title: "Publications"
 layout: page
 ---
+
+We have categorized notable and foundational publications to give more information that relates to our work, the work of our colleagues, and the PRO research community. This list will be updated on a regular basis, as more publications are available.
+
 <details open>
   <summary><b>Patient-reported outcomes (PROs):</b></summary>
 
