@@ -50,7 +50,7 @@ We have categorized notable and foundational publications to give more informati
   [Stover et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985602/)
 
 </details>
-
+--
 <details open>
   <summary><b>PROMIS:</b></summary>
 
@@ -61,7 +61,7 @@ We have categorized notable and foundational publications to give more informati
   [Hanmer et al, 2020](https://pubmed.ncbi.nlm.nih.gov/32215788/)
   
 </details>
-
+--
 <details open>
   <summary><b>PRO-CTCAE:</b></summary>
 
@@ -109,7 +109,7 @@ We have categorized notable and foundational publications to give more informati
   PRO-CTCAE baseline adjustment method:  
   [Dueck et al, 2020](https://pubmed.ncbi.nlm.nih.gov/31556911/)
 </details>
-
+--
 <details open>
   <summary><b>Adverse event (AE) analysis:</b></summary>
   
@@ -130,7 +130,7 @@ We have categorized notable and foundational publications to give more informati
   [Wong et al, 2021](https://pubmed.ncbi.nlm.nih.gov/32951293/)
 
 </details>
-
+--
 <details open>
   <summary><b>Rare diseases:</b></summary>
   
