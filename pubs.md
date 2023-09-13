@@ -142,5 +142,6 @@ We have categorized notable and foundational publications to give more informati
 
 </details>
 
+--
 
-'If you think a publication should be added, or if you are looking for more information, reach out to our team'
+<i>If you think a publication should be added, or are looking for more information, reach out to our team.</i>
