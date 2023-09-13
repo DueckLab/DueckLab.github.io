@@ -3,7 +3,7 @@ title: "Publications"
 layout: page
 ---
 
-<summary>**Patient-reported outcomes (PROs):**</summary> 
+**<summary>Patient-reported outcomes (PROs):</summary>** 
 
 <details>
 SPIRIT-PRO extension (PRO-specific protocol guidance):  [Calvert et al, 2018](https://pubmed.ncbi.nlm.nih.gov/29411037/)
@@ -44,14 +44,16 @@ PRO-cision Medicine Toolkit (Medical Care edition focused on PROs implemented in
 
 </details>
 
-<summary>**PROMIS:**</summary>
+**<summary>PROMIS:</summary>**
+
 <details>
 PROMIS scales to PRO-CTCAE and single-item numeric rating scale items:  [Lee et al, 2020](https://pubmed.ncbi.nlm.nih.gov/33305344/)
 
 PROMIS reporting recommendations: [Hanmer et al, 2020](https://pubmed.ncbi.nlm.nih.gov/32215788/)
 </details>
 
-<summary>**PRO-CTCAE:**</summary>
+**<summary>PRO-CTCAE:</summary>**
+
 <details>
 Item generation:  [Basch et al, 2014](https://pubmed.ncbi.nlm.nih.gov/25265940/)
 
@@ -81,7 +83,7 @@ Example of PRO-CTCAE in a trial (PRO-CTCAE is reported in the supplemental appen
 PRO-CTCAE baseline adjustment method:  [Dueck et al, 2020](https://pubmed.ncbi.nlm.nih.gov/31556911/)
 </details>
 
-<summary>**Adverse event (AE) analysis:**</summary>
+**<summary>Adverse event (AE) analysis:</summary>** 
 <details>
 Lancet Haematology Commission on modernizing approach to AEs:  [Thanarajasingam et al, 2018](https://pubmed.ncbi.nlm.nih.gov/29907552/)
 
@@ -99,13 +101,16 @@ Thanarajasingam ToxT references:
 
 </details>
 
-<summary>**Rare diseases:**</summary>
+**<summary>Rare diseases:</summary>**
+
 <details>
-[Boyd et al, 2016](https://pubmed.ncbi.nlm.nih.gov/26868354/)
+  
+<a href="[Boyd et al, 2016]>(https://pubmed.ncbi.nlm.nih.gov/26868354/)</a>
 
 [Blay et al, 2016](https://pubmed.ncbi.nlm.nih.gov/26868355/)
 
 [Billingham et al, 2016](https://pubmed.ncbi.nlm.nih.gov/26868356/)
+
 </details>
 
 
