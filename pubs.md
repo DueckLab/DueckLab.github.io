@@ -3,9 +3,9 @@ title: "Publications"
 layout: page
 ---
 
+<summary>**Patient-reported outcomes (PROs):**</summary> 
 
-**Patient-reported outcomes (PROs):** 
-
+<details>
 SPIRIT-PRO extension (PRO-specific protocol guidance):  [Calvert et al, 2018](https://pubmed.ncbi.nlm.nih.gov/29411037/)
 
 SISAQOL recommendations (statistical standards for PRO data in randomized trials):  [Coens et al, 2020](https://pubmed.ncbi.nlm.nih.gov/32007209/)
@@ -42,13 +42,17 @@ PRO-cision Medicine Toolkit (Medical Care edition focused on PROs implemented in
 
 [Stover et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985602/)
 
+</details>
 
-**PROMIS:**
+<summary>**PROMIS:**</summary>
+<details>
 PROMIS scales to PRO-CTCAE and single-item numeric rating scale items:  [Lee et al, 2020](https://pubmed.ncbi.nlm.nih.gov/33305344/)
 
 PROMIS reporting recommendations: [Hanmer et al, 2020](https://pubmed.ncbi.nlm.nih.gov/32215788/)
+</details>
 
-**PRO-CTCAE:**
+<summary>**PRO-CTCAE:**</summary>
+<details>
 Item generation:  [Basch et al, 2014](https://pubmed.ncbi.nlm.nih.gov/25265940/)
 
 Cognitive testing:  [Hay et al, 2013](https://pubmed.ncbi.nlm.nih.gov/23868457/)
@@ -56,7 +60,6 @@ Cognitive testing:  [Hay et al, 2013](https://pubmed.ncbi.nlm.nih.gov/23868457/)
 Validity, reliability, & responsiveness:  [Dueck et al, 2015](https://pubmed.ncbi.nlm.nih.gov/26270597/)
 
 Comparison of modes of administration (paper, web, & automated telephone):  [Bennett et al, 2016](https://pubmed.ncbi.nlm.nih.gov/26892667/) 
-
 Assessment of patient recall from 1 to 4 weeks:  [Mendoza et al, 2017](https://pubmed.ncbi.nlm.nih.gov/28545337/)
 
 Pediatric (and proxy) PRO-CTCAE:  [Reeve et al, 2017](https://pubmed.ncbi.nlm.nih.gov/28062347/)
@@ -76,9 +79,10 @@ Composite scoring algorithm:  [Basch et al, 2021](https://pubmed.ncbi.nlm.nih.go
 Example of PRO-CTCAE in a trial (PRO-CTCAE is reported in the supplemental appendix):  [Gounder et al, 2018](https://pubmed.ncbi.nlm.nih.gov/30575484/)
 
 PRO-CTCAE baseline adjustment method:  [Dueck et al, 2020](https://pubmed.ncbi.nlm.nih.gov/31556911/)
+</details>
 
-**Adverse event (AE) analysis:**
-
+<summary>**Adverse event (AE) analysis:**</summary>
+<details>
 Lancet Haematology Commission on modernizing approach to AEs:  [Thanarajasingam et al, 2018](https://pubmed.ncbi.nlm.nih.gov/29907552/)
 
 Update to Lancet Haematology Commission:  [Thanarajasingam et al, 2022](https://pubmed.ncbi.nlm.nih.gov/35483398/)
@@ -93,13 +97,16 @@ Thanarajasingam ToxT references:
 
 [Wong et al, 2021](https://pubmed.ncbi.nlm.nih.gov/32951293/)
 
+</details>
 
-**Rare diseases:**
-
+<summary>**Rare diseases:**</summary>
+<details>
 [Boyd et al, 2016](https://pubmed.ncbi.nlm.nih.gov/26868354/)
 
 [Blay et al, 2016](https://pubmed.ncbi.nlm.nih.gov/26868355/)
 
 [Billingham et al, 2016](https://pubmed.ncbi.nlm.nih.gov/26868356/)
+</details>
+
 
 
