@@ -18,33 +18,33 @@ layout: page
 
   
   PRO-cision Medicine Toolkit (Medical Care edition focused on PROs implemented in clinical practice):
-    [Snyder et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985589/)
+  [Snyder et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985589/)
     
-    [Shi et al, 2016](https://pubmed.ncbi.nlm.nih.gov/30985590/)
+  [Shi et al, 2016](https://pubmed.ncbi.nlm.nih.gov/30985590/)
     
-    [Cook et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985591/)
+  [Cook et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985591/)
     
-    [Brown & Cano, 2019](https://pubmed.ncbi.nlm.nih.gov/30985592/)
+  [Brown & Cano, 2019](https://pubmed.ncbi.nlm.nih.gov/30985592/)
     
-    [Jensen & Bjorner, 2019](https://pubmed.ncbi.nlm.nih.gov/30985593/)
+  [Jensen & Bjorner, 2019](https://pubmed.ncbi.nlm.nih.gov/30985593/)
     
-    [Oliver et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985594/)
+  [Oliver et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985594/)
     
-    [King et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985595/)
+  [King et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985595/)
     
-    [Blackford et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985596/)
+  [Blackford et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985596/)
     
-    [Haverman et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985597/)
+  [Haverman et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985597/)
     
-    [Absolom et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985598/)
+  [Absolom et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985598/)
     
-    [Zahrieh et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985599/)
+  [Zahrieh et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985599/)
     
-    [Barbera & Moody, 2019](https://pubmed.ncbi.nlm.nih.gov/30985600/)
+  [Barbera & Moody, 2019](https://pubmed.ncbi.nlm.nih.gov/30985600/)
     
-    [Girgis et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985601/)
+  [Girgis et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985601/)
     
-    [Stover et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985602/)
+  [Stover et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30985602/)
 
 </details>
 
@@ -93,9 +93,9 @@ layout: page
   [Chung et al, 2019](https://pubmed.ncbi.nlm.nih.gov/30840079/)
   
   Feasibility of PRO-CTCAE reporting:  
-    [Basch et al, 2017](https://pubmed.ncbi.nlm.nih.gov/28463161/)
+  [Basch et al, 2017](https://pubmed.ncbi.nlm.nih.gov/28463161/)
     
-    [Basch et al, 2018](https://pubmed.ncbi.nlm.nih.gov/30204536/)
+  [Basch et al, 2018](https://pubmed.ncbi.nlm.nih.gov/30204536/)
     
   Composite scoring algorithm:  
   [Basch et al, 2021](https://pubmed.ncbi.nlm.nih.gov/33258687/)
@@ -118,23 +118,23 @@ layout: page
   
   Thanarajasingam ToxT references:
   
-    [Thanarajasingam et al, 2016](https://pubmed.ncbi.nlm.nih.gov/27083333/)
+  [Thanarajasingam et al, 2016](https://pubmed.ncbi.nlm.nih.gov/27083333/)
     
-    [Thanarajasingam et al, 2016](https://pubmed.ncbi.nlm.nih.gov/27396640/)
+  [Thanarajasingam et al, 2016](https://pubmed.ncbi.nlm.nih.gov/27396640/)
     
-    [Thanarajasingam et al, 2020](https://pubmed.ncbi.nlm.nih.gov/32470440/)
+  [Thanarajasingam et al, 2020](https://pubmed.ncbi.nlm.nih.gov/32470440/)
     
-    [Wong et al, 2021](https://pubmed.ncbi.nlm.nih.gov/32951293/)
+  [Wong et al, 2021](https://pubmed.ncbi.nlm.nih.gov/32951293/)
 
 </details>
 
 <details open>
   <summary><b>Rare diseases:</b></summary>
-  ---
+  
   [Boyd et al, 2016](https://pubmed.ncbi.nlm.nih.gov/26868354/)
-  ---
+  
   [Blay et al, 2016](https://pubmed.ncbi.nlm.nih.gov/26868355/)
-  ---
+  
   [Billingham et al, 2016](https://pubmed.ncbi.nlm.nih.gov/26868356/)
 
 </details>
