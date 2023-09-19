@@ -50,6 +50,9 @@ google_fonts:
 
 navigation_pages:
   - about.md
-  - tools.md
+  - ProAE.md
+	- ToxT.md
+	- Other.md
+	- tools.md
   - pubs.md
   
