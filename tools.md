@@ -96,16 +96,16 @@ PROsetta Stone (cross walks PROMIS scores with other common questionnaires): <a 
     Single-arm one-stage clinical trial design: <a href="https://stat.ethz.ch/education/semesters/as2012/bio/ahernSampleSize.pdf">https://stat.ethz.ch/education/semesters/as2012/bio/ahernSampleSize.pdf</a><br><br>
     
     Single-arm two-stage clinical trial design:<br> 
-    <ahref="https://brb.nci.nih.gov/brb/samplesize/otsd.html">https://brb.nci.nih.gov/brb/samplesize/otsd.html</a><br>
-<ahref="http://cancer.unc.edu/biostatistics/program/ivanova/SimonsTwoStageDesign.aspx">http://cancer.unc.edu/biostatistics/program/ivanova/SimonsTwoStageDesign.aspx</a><br><br>
+    <a href="https://brb.nci.nih.gov/brb/samplesize/otsd.html">https://brb.nci.nih.gov/brb/samplesize/otsd.html</a><br>
+<a href="http://cancer.unc.edu/biostatistics/program/ivanova/SimonsTwoStageDesign.aspx">http://cancer.unc.edu/biostatistics/program/ivanova/SimonsTwoStageDesign.aspx</a><br><br>
       
-	Ivanova toxicity monitoring boundary: <ahref="http://cancer.unc.edu/biostatistics/program/ivanova/ContinuosMonitoringForToxicity.aspx">http://cancer.unc.edu/biostatistics/program/ivanova/ContinuosMonitoringForToxicity.aspx</a><br><br>
+	Ivanova toxicity monitoring boundary: <a href="http://cancer.unc.edu/biostatistics/program/ivanova/ContinuosMonitoringForToxicity.aspx">http://cancer.unc.edu/biostatistics/program/ivanova/ContinuosMonitoringForToxicity.aspx</a><br><br>
 	
 	SWOG statistical tools: <a href="https://stattools.crab.org">https://stattools.crab.org</a><br><br>
     
     MD Anderson statistical tools:<br>
-    <ahref="https://biostatistics.mdanderson.org/softwaredownload/">https://biostatistics.mdanderson.org/softwaredownload/</a><br>
-<ahref="https://biostatistics.mdanderson.org/SoftwareDownload/SoftwareOnline/Index/">https://biostatistics.mdanderson.org/SoftwareDownload/SoftwareOnline/Index/</a><br><br>
+    <a href="https://biostatistics.mdanderson.org/softwaredownload/">https://biostatistics.mdanderson.org/softwaredownload/</a><br>
+<a href="https://biostatistics.mdanderson.org/SoftwareDownload/SoftwareOnline/Index/">https://biostatistics.mdanderson.org/SoftwareDownload/SoftwareOnline/Index/</a><br><br>
   
 	Phase I, II, and I/II designs (mostly Bayesian, includes BOIN, CRM, Keyboard, & BOP2): <a href=" https://trialdesign.org"> https://trialdesign.org</a><br><br>
 	
