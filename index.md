@@ -13,7 +13,7 @@ introduction: |
 
 <button onlick="ToxT"><a href="https://duecklab.github.io/toxt"> ToxT</a></button>
 
-<button onlick="Other Statistical Projects"><a href="https://duecklab.github.io/other"> Other Projects</a></button>
+<button onlick="Other Statistical Projects"><a href="https://duecklab.github.io/other"> Other Statistical Projects</a></button>
 
 <button onlick="Resources and Tools"><a href="https://duecklab.github.io/tools"> Resources and Tools</a></button>
 
