@@ -19,4 +19,4 @@ introduction: |
 
 <button onlick="Publications"><a href="https://duecklab.github.io/pubs"> Publications</a></button>
 
-<button onlick="Links"><a href="https://duecklab.github.io/links"> Links</a></button>
+
