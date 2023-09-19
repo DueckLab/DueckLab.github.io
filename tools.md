@@ -24,6 +24,105 @@ CONSORT-PRO extension: <a href="http://www.consort-statement.org/extensions/over
   FACT Questionnaires, Scoring & Item Library: <a href="https://www.facit.org/facit-measures-searchable-library">https://www.facit.org/facit-measures-searchable-library</a><br><br>
   
 </details>
+
+<details open>
+  <summary><b>PROMIS:</b></summary>
+  
+  Intro to PROMIS: <a href="https://www.healthmeasures.net/explore-measurement-systems/promis/intro-to-promis">https://www.healthmeasures.net/explore-measurement-systems/promis/intro-to-promis</a><br><br>
+    
+  PROMIS Scoring: <a href="https://www.healthmeasures.net/promis-scoring-manuals">https://www.healthmeasures.net/promis-scoring-manuals</a><br><br>
+  
+PROsetta Stone (cross walks PROMIS scores with other common questionnaires): <a href=" http://www.prosettastone.org/Pages/default.aspx"> http://www.prosettastone.org/Pages/default.aspx</a><br><br>
+
+  PROPr (preference-based scores for use in cost-utility analyses and to estimate quality-adjusted life years [QALYs]): <a href="https://www.healthmeasures.net/score-and-interpret/calculate-scores/preference-based-scores">https://www.healthmeasures.net/score-and-interpret/calculate-scores/preference-based-scores</a><br><br>
+
+</details>
+
+<details open>
+  <summary><b>PRO-CTCAE:</b></summary>
+  
+    All about PRO-CTCAE: <a href="http://healthcaredelivery.cancer.gov/pro-ctcae/">http://healthcaredelivery.cancer.gov/pro-ctcae/</a><br><br>
+    
+  ProAE (SAS macros for standard tables and graphics for PRO-CTCAE): <a href="https://github.com/biostatgirl/ProAE">https://github.com/biostatgirl/ProAE</a><br><br>
+  
+	ProAE (R package for standard tables and graphics for PRO-CTCAE): <a href=" https://cran.r-project.org/web/packages/ProAE/index.html">https://cran.r-project.org/web/packages/ProAE/index.html</a><br><br>
+
+</details>
+
+<details open>
+  <summary><b>Adverse event (AE) analysis resources:</b></summary>
+  
+  ToxT SAS macros: <a href="http://bioinformaticstools.mayo.edu/research/toxt/">http://bioinformaticstools.mayo.edu/research/toxt/</a><br><br>
+    
+</details>
+
+<details open>
+  <summary><b>Blue Sky statistical software resources:</b></summary>
+  
+    Blue Sky is free point-and-click statistical software that operates on top of the R platform.  R is a great platform to learn, but has a steep learning curve, so Blue Sky is a great way to tip toe into the R world of statistical computing!
+    
+    Blue Sky homepage: <a href="https://www.blueskystatistics.com/">https://www.blueskystatistics.com/</a><br><br>
+    
+ Blue Sky video library: <a href="https://www.blueskystatistics.com/category-s/109.htm"> https://www.blueskystatistics.com/category-s/109.htm</a><br><br>
+  
+	Blue Sky intro guide (PDF): <a href="https://www.blueskystatistics.com/v/vspfiles/downloadables/BlueSky_Statistics_7.1_Intro_Guide.pdf">https://www.blueskystatistics.com/v/vspfiles/downloadables/BlueSky_Statistics_7.1_Intro_Guide.pdf</a><br><br>
+
+</details>
+
+<details open>
+  <summary><b>R/R Studio resources:</b></summary>
+  
+    R main website: <a href="https://www.rstudio.com/products/rstudio/">https://www.rstudio.com/products/rstudio/a><br><br>
+    
+    R Studio (an interface for R) website: <a href="https://www.rstudio.com/products/rstudio/"> https://www.rstudio.com/products/rstudio/</a><br><br>
+  
+	R Studio cheat sheets: <a href="https://www.rstudio.com/resources/cheatsheets/">https://www.rstudio.com/resources/cheatsheets/</a><br><br>
+	
+	R Commander (another interface for R): <a href="https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/">https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/a><br><br>
+    
+    R for Data Science (free book): <a href="https://r4ds.had.co.nz/">https://r4ds.had.co.nz/</a><br><br>
+  
+	An Introduction to R (online PDF): <a href="https://cran.r-project.org/doc/manuals/R-intro.pdf">https://cran.r-project.org/doc/manuals/R-intro.pdf</a><br><br>
+	
+	 R Cookbook (free book): <a href="https://rc2e.com">https://rc2e.com</a><br><br>
+  
+	Impatient R (website): <a href="https://www.burns-stat.com/documents/tutorials/impatient-r/">https://www.burns-stat.com/documents/tutorials/impatient-r/</a><br><br>
+
+</details>
+
+<details open>
+  <summary><b>Clinical Trial Design:</b></summary>
+  
+    Single-arm one-stage clinical trial design: <a href="https://stat.ethz.ch/education/semesters/as2012/bio/ahernSampleSize.pdf">https://stat.ethz.ch/education/semesters/as2012/bio/ahernSampleSize.pdf</a><br><br>
+    
+    Single-arm two-stage clinical trial design:<br> 
+    <a href="https://brb.nci.nih.gov/brb/samplesize/otsd.html">https://brb.nci.nih.gov/brb/samplesize/otsd.html</a><br>
+<ahref="http://cancer.unc.edu/biostatistics/program/ivanova/SimonsTwoStageDesign.aspx">http://cancer.unc.edu/biostatistics/program/ivanova/SimonsTwoStageDesign.aspx</a><br><br>
+      
+	Ivanova toxicity monitoring boundary: <ahref="http://cancer.unc.edu/biostatistics/program/ivanova/ContinuosMonitoringForToxicity.aspx">http://cancer.unc.edu/biostatistics/program/ivanova/ContinuosMonitoringForToxicity.aspx</a><br><br>
+	
+	SWOG statistical tools: <a href="https://stattools.crab.org">https://stattools.crab.org</a><br><br>
+    
+    MD Anderson statistical tools:<br><br> 
+    <ahref="https://biostatistics.mdanderson.org/softwaredownload/">https://biostatistics.mdanderson.org/softwaredownload/</a><br>
+<ahref="https://biostatistics.mdanderson.org/SoftwareDownload/SoftwareOnline/Index/">https://biostatistics.mdanderson.org/SoftwareDownload/SoftwareOnline/Index/</a><br>
+  
+	Phase I, II, and I/II designs (mostly Bayesian, includes BOIN, CRM, Keyboard, & BOP2): <a href=" https://trialdesign.org"> https://trialdesign.org</a><br><br>
+	
+	Mayo Clinic statistical code: <a href="https://bioinformaticstools.mayo.edu">https://bioinformaticstools.mayo.edu</a><br><br>
+  
+</details>
+
+<details open>
+  <summary><b>Publishing and other related resources:</b></summary>
+  
+  JANE (Journal Author/Name Estimator): <a href="https://jane.biosemantics.org/">https://jane.biosemantics.org/</a><br><br>
+    
+    Beall’s list (predatory journals): <a href="https://beallslist.net/"> https://beallslist.net/</a><br><br>
+    
+    NIH Study Section finder (ART): <a href="https://public.csr.nih.gov/ForApplicants/ArtHome"> https://public.csr.nih.gov/ForApplicants/ArtHome</a><br><br>
+    
+</details>
 --
 
 <i>If you are looking for more information on any of the above links, or want to suggest additions, feel free to reach out to our team!</i>
