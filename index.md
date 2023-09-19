@@ -16,8 +16,7 @@ introduction: |
 
   <button style="background-color: #2596be; color: white; border: none; padding: 20px 40px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 10px 0; cursor: pointer; border-radius: 5px;" onclick="window.location.href='https://duecklab.github.io/other'">Other Statistical Projects</button>
 </div>
-
-
+<br>
 <div style="display: flex; justify-content: flex-start;">
   <button style="background-color: #2596be; color: white; border: none; padding: 20px 40px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 10px 0; cursor: pointer; border-radius: 5px;" onclick="window.location.href='https://duecklab.github.io/tools'">Resources and Tools</button>
 
