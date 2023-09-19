@@ -59,7 +59,7 @@ PROsetta Stone (cross walks PROMIS scores with other common questionnaires): <a 
 <details open>
   <summary><b>Blue Sky statistical software resources:</b></summary>
   
-    Blue Sky is free point-and-click statistical software that operates on top of the R platform.  R is a great platform to learn, but has a steep learning curve, so Blue Sky is a great way to tip toe into the R world of statistical computing!
+    Blue Sky is free point-and-click statistical software that operates on top of the R platform.  R is a great platform to learn, but has a steep learning curve, so Blue Sky is a great way to tip toe into the R world of statistical computing!<br><br>
     
     Blue Sky homepage: <a href="https://www.blueskystatistics.com/">https://www.blueskystatistics.com/</a><br><br>
     
@@ -74,13 +74,13 @@ PROsetta Stone (cross walks PROMIS scores with other common questionnaires): <a 
   
     R main website: <a href="https://www.rstudio.com/products/rstudio/">https://www.rstudio.com/products/rstudio/a><br><br>
     
-    R Studio (an interface for R) website: <a href="https://www.rstudio.com/products/rstudio/"> https://www.rstudio.com/products/rstudio/</a><br><br>
+    R Studio (an interface for R) website: <a href="https://www.rstudio.com/products/rstudio/">https://www.rstudio.com/products/rstudio/</a><br><br>
   
 	R Studio cheat sheets: <a href="https://www.rstudio.com/resources/cheatsheets/">https://www.rstudio.com/resources/cheatsheets/</a><br><br>
 	
 	R Commander (another interface for R): <a href="https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/">https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/a><br><br>
     
-    R for Data Science (free book): <a href="https://r4ds.had.co.nz/">https://r4ds.had.co.nz/</a><br><br>
+  R for Data Science (free book): <a href="https://r4ds.had.co.nz/">https://r4ds.had.co.nz/</a><br><br>
   
 	An Introduction to R (online PDF): <a href="https://cran.r-project.org/doc/manuals/R-intro.pdf">https://cran.r-project.org/doc/manuals/R-intro.pdf</a><br><br>
 	
@@ -88,7 +88,7 @@ PROsetta Stone (cross walks PROMIS scores with other common questionnaires): <a 
   
 	Impatient R (website): <a href="https://www.burns-stat.com/documents/tutorials/impatient-r/">https://www.burns-stat.com/documents/tutorials/impatient-r/</a><br><br>
 
-</details>
+  </details>
 
 <details open>
   <summary><b>Clinical Trial Design:</b></summary>
@@ -96,16 +96,16 @@ PROsetta Stone (cross walks PROMIS scores with other common questionnaires): <a 
     Single-arm one-stage clinical trial design: <a href="https://stat.ethz.ch/education/semesters/as2012/bio/ahernSampleSize.pdf">https://stat.ethz.ch/education/semesters/as2012/bio/ahernSampleSize.pdf</a><br><br>
     
     Single-arm two-stage clinical trial design:<br> 
-    <a href="https://brb.nci.nih.gov/brb/samplesize/otsd.html">https://brb.nci.nih.gov/brb/samplesize/otsd.html</a><br>
+    <ahref="https://brb.nci.nih.gov/brb/samplesize/otsd.html">https://brb.nci.nih.gov/brb/samplesize/otsd.html</a><br>
 <ahref="http://cancer.unc.edu/biostatistics/program/ivanova/SimonsTwoStageDesign.aspx">http://cancer.unc.edu/biostatistics/program/ivanova/SimonsTwoStageDesign.aspx</a><br><br>
       
 	Ivanova toxicity monitoring boundary: <ahref="http://cancer.unc.edu/biostatistics/program/ivanova/ContinuosMonitoringForToxicity.aspx">http://cancer.unc.edu/biostatistics/program/ivanova/ContinuosMonitoringForToxicity.aspx</a><br><br>
 	
 	SWOG statistical tools: <a href="https://stattools.crab.org">https://stattools.crab.org</a><br><br>
     
-    MD Anderson statistical tools:<br><br> 
+    MD Anderson statistical tools:<br>
     <ahref="https://biostatistics.mdanderson.org/softwaredownload/">https://biostatistics.mdanderson.org/softwaredownload/</a><br>
-<ahref="https://biostatistics.mdanderson.org/SoftwareDownload/SoftwareOnline/Index/">https://biostatistics.mdanderson.org/SoftwareDownload/SoftwareOnline/Index/</a><br>
+<ahref="https://biostatistics.mdanderson.org/SoftwareDownload/SoftwareOnline/Index/">https://biostatistics.mdanderson.org/SoftwareDownload/SoftwareOnline/Index/</a><br><br>
   
 	Phase I, II, and I/II designs (mostly Bayesian, includes BOIN, CRM, Keyboard, & BOP2): <a href=" https://trialdesign.org"> https://trialdesign.org</a><br><br>
 	
