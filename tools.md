@@ -74,21 +74,20 @@ PROsetta Stone (cross walks PROMIS scores with other common questionnaires): <a 
   
     R main website: <a href="https://www.rstudio.com/products/rstudio/">https://www.rstudio.com/products/rstudio/a><br><br>
     
-    R Studio (an interface for R) website: <a href="https://www.rstudio.com/products/rstudio/">https://www.rstudio.com/products/rstudio/</a><br><br>
+    R Studio (an interface for R) website: <a href="https://www.rstudio.com/products/rstudio/">https://www.rstudio.com/products/rstudio//a><br><br>
   
 	R Studio cheat sheets: <a href="https://www.rstudio.com/resources/cheatsheets/">https://www.rstudio.com/resources/cheatsheets/</a><br><br>
 	
-	R Commander (another interface for R): <a href="https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/">https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/a><br><br>
+	R Commander (another interface for R): <a href="https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/">https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr</a><br><br>
     
-  R for Data Science (free book): <a href="https://r4ds.had.co.nz/">https://r4ds.had.co.nz/</a><br><br>
+  R for Data Science (free book): <a href="https://r4ds.had.co.nz/">https://r4ds.had.co.nz</a><br><br>
   
 	An Introduction to R (online PDF): <a href="https://cran.r-project.org/doc/manuals/R-intro.pdf">https://cran.r-project.org/doc/manuals/R-intro.pdf</a><br><br>
 	
-	 R Cookbook (free book): <a href="https://rc2e.com">https://rc2e.com</a><br><br>
+	R Cookbook (free book): <a href="https://rc2e.com">https://rc2e.com</a><br><br>
   
 	Impatient R (website): <a href="https://www.burns-stat.com/documents/tutorials/impatient-r/">https://www.burns-stat.com/documents/tutorials/impatient-r/</a><br><br>
-
-  </details>
+</details>
 
 <details open>
   <summary><b>Clinical Trial Design:</b></summary>
