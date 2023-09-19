@@ -93,7 +93,7 @@ We have categorized notable and foundational publications to give more informati
   <a href="https://pubmed.ncbi.nlm.nih.gov/30840079/">Chung et al, 2019</a><br><br>
   
   Feasibility of PRO-CTCAE reporting:<br>  
-  <a href="https://pubmed.ncbi.nlm.nih.gov/28463161/">Basch et al, 2017</a> <br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/28463161/">Basch et al, 2017</a> <br>
      
   <a href="https://pubmed.ncbi.nlm.nih.gov/30204536/">Basch et al, 2018</a> <br><br>
     
@@ -118,27 +118,27 @@ We have categorized notable and foundational publications to give more informati
   <a href="https://pubmed.ncbi.nlm.nih.gov/35483398/">Thanarajasingam et al, 2022</a><br><br>
   
   Thanarajasingam ToxT references:<br>
-  <a href="https://pubmed.ncbi.nlm.nih.gov/27083333/">Thanarajasingam et al, 2016</a><br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/27083333/">Thanarajasingam et al, 2016</a><br>
 
-  <a href="https://pubmed.ncbi.nlm.nih.gov/27396640/">Thanarajasingam et al, 2016</a><br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/27396640/">Thanarajasingam et al, 2016</a><br>
   
-  <a href="https://pubmed.ncbi.nlm.nih.gov/32470440/">Thanarajasingam et al, 2020</a><br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/32470440/">Thanarajasingam et al, 2020</a><br>
       
-  <a href="https://pubmed.ncbi.nlm.nih.gov/32951293/">Wong et al, 2021</a><br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/32951293/">Wong et al, 2021</a><br>
   
 </details>
 --
 <details open>
   <summary><b>Rare diseases:</b></summary>
 
-  <a href="https://pubmed.ncbi.nlm.nih.gov/26868354/">Boyd et al, 2016</a><br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/26868354/">Boyd et al, 2016</a><br>
   
-  <a href="https://pubmed.ncbi.nlm.nih.gov/26868355/">Blay et al, 2016</a><br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/26868355/">Blay et al, 2016</a><br>
   
-  <a href="https://pubmed.ncbi.nlm.nih.gov/26868356/">Billingham et al, 2016</a><br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/26868356/">Billingham et al, 2016</a><br>
   
 </details>
 
 --
 
-<i>If you are looking for more information on any of the above articlkes, or think a publication should be added, feel free to reach out to our team!</i>
+<i>If you are looking for more information on any of the above articles, or think a publication should be added, feel free to reach out to our team!</i>
