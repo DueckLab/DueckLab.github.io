@@ -12,8 +12,6 @@ introduction: |
   </style>
 ---
 
-![Hero Image](/assets/images/HeroImage.jpeg){ height=75% }
-
 <div style="display: flex; flex-direction: column; align-items: center;">
   <button style="background-color: #2596be; color: white; border: none; padding: 20px 40px; text-align: center; text-decoration: none; display: inline-block; font-size: 20px; margin: 10px 0; cursor: pointer; border-radius: 5px;" onclick="window.location.href='https://duecklab.github.io/about'">About</button>
 
