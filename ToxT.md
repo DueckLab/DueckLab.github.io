@@ -1,4 +1,0 @@
----
-title: "ToxT"
-layout: page
----
