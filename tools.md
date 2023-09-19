@@ -72,9 +72,9 @@ PROsetta Stone (cross walks PROMIS scores with other common questionnaires): <a 
 <details open>
   <summary><b>R/R Studio resources:</b></summary>
   
-    R main website: <a href="https://www.rstudio.com/products/rstudio/">https://www.rstudio.com/products/rstudio/a><br><br>
+    R main website: <a href="https://www.rstudio.com/products/rstudio/">https://www.rstudio.com/products/rstudio</a><br><br>
     
-    R Studio (an interface for R) website: <a href="https://www.rstudio.com/products/rstudio/">https://www.rstudio.com/products/rstudio//a><br><br>
+    R Studio (an interface for R) website: <a href="https://www.rstudio.com/products/rstudio/">https://www.rstudio.com/products/rstudio/</a><br><br>
   
 	R Studio cheat sheets: <a href="https://www.rstudio.com/resources/cheatsheets/">https://www.rstudio.com/resources/cheatsheets/</a><br><br>
 	
@@ -87,6 +87,7 @@ PROsetta Stone (cross walks PROMIS scores with other common questionnaires): <a 
 	R Cookbook (free book): <a href="https://rc2e.com">https://rc2e.com</a><br><br>
   
 	Impatient R (website): <a href="https://www.burns-stat.com/documents/tutorials/impatient-r/">https://www.burns-stat.com/documents/tutorials/impatient-r/</a><br><br>
+
 </details>
 
 <details open>
