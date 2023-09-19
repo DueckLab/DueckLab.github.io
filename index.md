@@ -19,5 +19,5 @@ introduction: |
 
 <button onlick="Publications"><a href="https://duecklab.github.io/pubs"> Publications</a></button>
 
+<button style="background-color: #2596be; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;" onclick="window.location.href='https://duecklab.github.io/about'">About</button>
 
-[<button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">About</button>]([https://example.com](https://duecklab.github.io/about)https://duecklab.github.io/about)
