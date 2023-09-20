@@ -17,6 +17,8 @@ CONSORT-PRO extension (this <a href="http://www.consort-statement.org/extensions
 
   Project Patient Voice: <a href="https://www.fda.gov/about-fda/oncology-center-excellence/project-patient-voice" target="_blank">https://www.fda.gov/about-fda/oncology-center-excellence/project-patient-voice</a><br><br>
 
+ Oncology Center of Excellence Patient Focused Drug Development (OCE PFDD): <a href="https://www.fda.gov/about-fda/oncology-center-excellence/patient-focused-drug-development" target="_blank">https://www.fda.gov/about-fda/oncology-center-excellence/patient-focused-drug-development</a><br><br>
+ 
   EORTC Questionnaires: <a href="https://qol.eortc.org/questionnaires/" target="_blank">https://qol.eortc.org/questionnaires/</a><br><br>
 
    EORTC Item Library: <a href="https://qol.eortc.org/item-library/" target="_blank">https://qol.eortc.org/item-library/</a><br><br>
@@ -42,6 +44,8 @@ PROsetta Stone (cross walks PROMIS scores with other common questionnaires): <a 
   <summary><b>PRO-CTCAE:</b></summary>
   
     All about PRO-CTCAE: <a href="http://healthcaredelivery.cancer.gov/pro-ctcae/" target="_blank">http://healthcaredelivery.cancer.gov/pro-ctcae/</a><br><br>
+
+    Pediatric PRO-CTCAE: <a href="https://healthcaredelivery.cancer.gov/pro-ctcae/instrument-ped.html" target="_blank">https://healthcaredelivery.cancer.gov/pro-ctcae/instrument-ped.html</a><br><br>
     
   ProAE (SAS macros for standard tables and graphics for PRO-CTCAE): <a href="https://github.com/biostatgirl/ProAE" target="_blank">https://github.com/biostatgirl/ProAE</a><br><br>
   
@@ -110,6 +114,8 @@ PROsetta Stone (cross walks PROMIS scores with other common questionnaires): <a 
 	Phase I, II, and I/II designs (mostly Bayesian, includes BOIN, CRM, Keyboard, & BOP2): <a href=" https://trialdesign.org" target="_blank">https://trialdesign.org</a><br><br>
 	
 	Mayo Clinic statistical code: <a href="https://bioinformaticstools.mayo.edu" target="_blank">https://bioinformaticstools.mayo.edu</a><br><br>
+
+ CDISC standards: <a href="https://www.cdisc.org/standards" target="_blank">https://www.cdisc.org/standards</a><br><br>
   
 </details>
 
