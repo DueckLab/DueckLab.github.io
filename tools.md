@@ -72,55 +72,55 @@ PROsetta Stone (cross walks PROMIS scores with other common questionnaires): <a 
 <details open>
   <summary><b>R/R Studio resources:</b></summary>
   
-    R main website: <a href="https://www.rstudio.com/products/rstudio/">https://www.rstudio.com/products/rstudio</a><br><br>
+    R main website: <a href="https://www.r-project.org/" target="_blank">https://www.r-project.org/</a><br><br>
     
-    R Studio (an interface for R) website: <a href="https://www.rstudio.com/products/rstudio/">https://www.rstudio.com/products/rstudio/</a><br><br>
+    R Studio (an interface for R) website: <a href="https://posit.co/download/rstudio-desktop/" target="_blank">https://posit.co/download/rstudio-desktop/</a><br><br>
   
-	R Studio cheat sheets: <a href="https://www.rstudio.com/resources/cheatsheets/">https://www.rstudio.com/resources/cheatsheets/</a><br><br>
+	R Studio cheat sheets: <a href="https://www.rstudio.com/resources/cheatsheets/" target="_blank">https://www.rstudio.com/resources/cheatsheets/</a><br><br>
 	
-	R Commander (another interface for R): <a href="https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/">https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr</a><br><br>
+	R Commander (another interface for R): <a href="https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/" target="_blank">https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr</a><br><br>
     
-  R for Data Science (free book): <a href="https://r4ds.had.co.nz/">https://r4ds.had.co.nz</a><br><br>
+  R for Data Science (free book): <a href="https://r4ds.had.co.nz/" target="_blank">https://r4ds.had.co.nz</a><br><br>
   
-	An Introduction to R (online PDF): <a href="https://cran.r-project.org/doc/manuals/R-intro.pdf">https://cran.r-project.org/doc/manuals/R-intro.pdf</a><br><br>
+	An Introduction to R (online PDF): <a href="https://cran.r-project.org/doc/manuals/R-intro.pdf" target="_blank">https://cran.r-project.org/doc/manuals/R-intro.pdf</a><br><br>
 	
-	R Cookbook (free book): <a href="https://rc2e.com">https://rc2e.com</a><br><br>
+	R Cookbook (free book): <a href="https://rc2e.com" target="_blank">https://rc2e.com</a><br><br>
   
-	Impatient R (website): <a href="https://www.burns-stat.com/documents/tutorials/impatient-r/">https://www.burns-stat.com/documents/tutorials/impatient-r/</a><br><br>
+	Impatient R (website): <a href="https://www.burns-stat.com/documents/tutorials/impatient-r/" target="_blank">https://www.burns-stat.com/documents/tutorials/impatient-r/</a><br><br>
 
 </details>
 
 <details open>
   <summary><b>Clinical Trial Design:</b></summary>
   
-    Single-arm one-stage clinical trial design: <a href="https://stat.ethz.ch/education/semesters/as2012/bio/ahernSampleSize.pdf">https://stat.ethz.ch/education/semesters/as2012/bio/ahernSampleSize.pdf</a><br><br>
+    Single-arm one-stage clinical trial design: <a href="https://stat.ethz.ch/education/semesters/as2012/bio/ahernSampleSize.pdf" target="_blank">https://stat.ethz.ch/education/semesters/as2012/bio/ahernSampleSize.pdf</a><br><br>
     
     Single-arm two-stage clinical trial design:<br> 
-    <a href="https://brb.nci.nih.gov/brb/samplesize/otsd.html">https://brb.nci.nih.gov/brb/samplesize/otsd.html</a><br>
-<a href="http://cancer.unc.edu/biostatistics/program/ivanova/SimonsTwoStageDesign.aspx">http://cancer.unc.edu/biostatistics/program/ivanova/SimonsTwoStageDesign.aspx</a><br><br>
+    <a href="https://brb.nci.nih.gov/brb/samplesize/otsd.html" target="_blank">https://brb.nci.nih.gov/brb/samplesize/otsd.html</a><br>
+<a href="http://cancer.unc.edu/biostatistics/program/ivanova/SimonsTwoStageDesign.aspx" target="_blank">http://cancer.unc.edu/biostatistics/program/ivanova/SimonsTwoStageDesign.aspx</a><br><br>
       
-	Ivanova toxicity monitoring boundary: <a href="http://cancer.unc.edu/biostatistics/program/ivanova/ContinuosMonitoringForToxicity.aspx">http://cancer.unc.edu/biostatistics/program/ivanova/ContinuosMonitoringForToxicity.aspx</a><br><br>
+	Ivanova toxicity monitoring boundary: <a href="http://cancer.unc.edu/biostatistics/program/ivanova/ContinuosMonitoringForToxicity.aspx" target="_blank">http://cancer.unc.edu/biostatistics/program/ivanova/ContinuosMonitoringForToxicity.aspx</a><br><br>
 	
-	SWOG statistical tools: <a href="https://stattools.crab.org">https://stattools.crab.org</a><br><br>
+	SWOG statistical tools: <a href="https://stattools.crab.org" target="_blank">https://stattools.crab.org</a><br><br>
     
     MD Anderson statistical tools:<br>
-    <a href="https://biostatistics.mdanderson.org/softwaredownload/">https://biostatistics.mdanderson.org/softwaredownload/</a><br>
-<a href="https://biostatistics.mdanderson.org/SoftwareDownload/SoftwareOnline/Index/">https://biostatistics.mdanderson.org/SoftwareDownload/SoftwareOnline/Index/</a><br><br>
+    <a href="https://biostatistics.mdanderson.org/softwaredownload/" target="_blank">https://biostatistics.mdanderson.org/softwaredownload/</a><br>
+<a href="https://biostatistics.mdanderson.org/SoftwareDownload/SoftwareOnline/Index/" target="_blank">https://biostatistics.mdanderson.org/SoftwareDownload/SoftwareOnline/Index/</a><br><br>
   
-	Phase I, II, and I/II designs (mostly Bayesian, includes BOIN, CRM, Keyboard, & BOP2): <a href=" https://trialdesign.org"> https://trialdesign.org</a><br><br>
+	Phase I, II, and I/II designs (mostly Bayesian, includes BOIN, CRM, Keyboard, & BOP2): <a href=" https://trialdesign.org" target="_blank">https://trialdesign.org</a><br><br>
 	
-	Mayo Clinic statistical code: <a href="https://bioinformaticstools.mayo.edu">https://bioinformaticstools.mayo.edu</a><br><br>
+	Mayo Clinic statistical code: <a href="https://bioinformaticstools.mayo.edu" target="_blank">https://bioinformaticstools.mayo.edu</a><br><br>
   
 </details>
 
 <details open>
   <summary><b>Publishing and other related resources:</b></summary>
   
-  JANE (Journal Author/Name Estimator): <a href="https://jane.biosemantics.org/">https://jane.biosemantics.org/</a><br><br>
+  JANE (Journal Author/Name Estimator): <a href="https://jane.biosemantics.org/" target="_blank">https://jane.biosemantics.org/</a><br><br>
     
-    Beall’s list (predatory journals): <a href="https://beallslist.net/"> https://beallslist.net/</a><br><br>
+    Beall’s list (predatory journals): <a href="https://beallslist.net/" target="_blank"> https://beallslist.net/</a><br><br>
     
-    NIH Study Section finder (ART): <a href="https://public.csr.nih.gov/ForApplicants/ArtHome"> https://public.csr.nih.gov/ForApplicants/ArtHome</a><br><br>
+    NIH Study Section finder (ART): <a href="https://public.csr.nih.gov/ForApplicants/ArtHome" target="_blank"> https://public.csr.nih.gov/ForApplicants/ArtHome</a><br><br>
     
 </details>
 --
