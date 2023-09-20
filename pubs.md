@@ -44,7 +44,7 @@ We have categorized notable and foundational publications to give more informati
 
   <a href="https://pubmed.ncbi.nlm.nih.gov/30985601/" target="_blank">Girgis et al, 2019</a><br>
     
-  <a href="https://pubmed.ncbi.nlm.nih.gov/30985602/" target="_blank">Stover et al, 2019</a><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/30985602/" target="_blank">Stover et al, 2019</a><br><br>
   
 </details>
 
@@ -55,7 +55,7 @@ We have categorized notable and foundational publications to give more informati
   <a href="https://pubmed.ncbi.nlm.nih.gov/33305344/" target="_blank">Lee et al, 2020</a><br>
   
   PROMIS reporting recommendations:<br> 
-  <a href="https://pubmed.ncbi.nlm.nih.gov/32215788/" target="_blank">Hanmer et al, 2020</a><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/32215788/" target="_blank">Hanmer et al, 2020</a><br><br>
  
 </details>
 
@@ -124,7 +124,7 @@ We have categorized notable and foundational publications to give more informati
   
   <a href="https://pubmed.ncbi.nlm.nih.gov/32470440/" target="_blank">Thanarajasingam et al, 2020</a><br>
       
-  <a href="https://pubmed.ncbi.nlm.nih.gov/32951293/" target="_blank">Wong et al, 2021</a><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/32951293/" target="_blank">Wong et al, 2021</a><br><br>
   
 </details>
 
@@ -135,7 +135,7 @@ We have categorized notable and foundational publications to give more informati
   
   <a href="https://pubmed.ncbi.nlm.nih.gov/26868355/" target="_blank">Blay et al, 2016</a><br>
   
-  <a href="https://pubmed.ncbi.nlm.nih.gov/26868356/" target="_blank">Billingham et al, 2016</a><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/26868356/" target="_blank">Billingham et al, 2016</a><br><br>
   
 </details>
 
