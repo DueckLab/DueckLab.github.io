@@ -9,19 +9,19 @@ This page contains the various resources and tools that have been created by our
 <details open>
   <summary><b>Patient-reported outcomes (PROs) resources:</b></summary>
   
-  PROTEUS (toolbox of PRO resources): <a href="https://theproteusconsortium.org/">https://theproteusconsortium.org/</a><br><br>
+  PROTEUS (toolbox of PRO resources): <a href="https://theproteusconsortium.org/" target="_blank">https://theproteusconsortium.org/</a><br><br>
     
-  SISAQOL webtool: <a href="https://www.sisaqol-imi.org/interactive-webtool/">https://www.sisaqol-imi.org/interactive-webtool/</a><br><br>
+  SISAQOL webtool: <a href="https://www.sisaqol-imi.org/interactive-webtool/" target="_blank">https://www.sisaqol-imi.org/interactive-webtool/</a><br><br>
   
-CONSORT-PRO extension: <a href="http://www.consort-statement.org/extensions/overview/consort-pro">http://www.consort-statement.org/extensions/overview/consort-pro</a><br><br>
+CONSORT-PRO extension (this <a href="http://www.consort-statement.org/extensions/overview/consort-pro">website</a> is currently being updated, all links can be found here): <a href="https://www.equator-network.org/" target="_blank">https://www.equator-network.org/</a><br><br>
 
-  Project Patient Voice: <a href="https://www.fda.gov/about-fda/oncology-center-excellence/project-patient-voice">https://www.fda.gov/about-fda/oncology-center-excellence/project-patient-voice</a><br><br>
+  Project Patient Voice: <a href="https://www.fda.gov/about-fda/oncology-center-excellence/project-patient-voice" target="_blank">https://www.fda.gov/about-fda/oncology-center-excellence/project-patient-voice</a><br><br>
 
-  EORTC Questionnaires: <a href="https://qol.eortc.org/questionnaires/">https://qol.eortc.org/questionnaires/</a><br><br>
+  EORTC Questionnaires: <a href="https://qol.eortc.org/questionnaires/" target="_blank">https://qol.eortc.org/questionnaires/</a><br><br>
 
-   EORTC Item Library: <a href="https://qol.eortc.org/item-library/">https://qol.eortc.org/item-library/</a><br><br>
+   EORTC Item Library: <a href="https://qol.eortc.org/item-library/" target="_blank">https://qol.eortc.org/item-library/</a><br><br>
 
-  FACT Questionnaires, Scoring & Item Library: <a href="https://www.facit.org/facit-measures-searchable-library">https://www.facit.org/facit-measures-searchable-library</a><br><br>
+  FACT Questionnaires, Scoring & Item Library: <a href="https://www.facit.org/facit-measures-searchable-library" target="_blank">https://www.facit.org/facit-measures-searchable-library</a><br><br>
   
 </details>
 
