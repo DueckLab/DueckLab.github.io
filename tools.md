@@ -63,7 +63,7 @@ PROsetta Stone (cross walks PROMIS scores with other common questionnaires): <a 
     
     Blue Sky homepage: <a href="https://www.blueskystatistics.com/product" target="_blank">https://www.blueskystatistics.com/product</a><br><br>
     
- Blue Sky video library (scroll down to refernce library section): <a href="https://www.blueskystatistics.com/support" target="_blank"> https://www.blueskystatistics.com/ target="_blank"</a><br> or access Blue Sky You Tube page: <a href="https://www.youtube.com/@blueskystatisticsllc6817" target="_blank">https://www.youtube.com/@blueskystatisticsllc6817"</a><br><br>
+ Blue Sky video library (scroll down to refernce library section): <a href="https://www.blueskystatistics.com/support" target="_blank">https://www.blueskystatistics.com/</a> or access Blue Sky You Tube page: <a href="https://www.youtube.com/@blueskystatisticsllc6817" target="_blank">https://www.youtube.com/@blueskystatisticsllc6817"</a><br><br>
   
 	Blue Sky user guide: <a href="https://r4stats.com/books/bluesky-statistics-user-guide/" target="_blank">https://r4stats.com/books/bluesky-statistics-user-guide/</a><br><br>
 
