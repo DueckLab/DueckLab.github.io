@@ -28,31 +28,31 @@ CONSORT-PRO extension (this <a href="http://www.consort-statement.org/extensions
 <details open>
   <summary><b>PROMIS:</b></summary>
   
-  Intro to PROMIS: <a href="https://www.healthmeasures.net/explore-measurement-systems/promis/intro-to-promis">https://www.healthmeasures.net/explore-measurement-systems/promis/intro-to-promis</a><br><br>
+  Intro to PROMIS: <a href="https://www.healthmeasures.net/explore-measurement-systems/promis/intro-to-promis" target="_blank">https://www.healthmeasures.net/explore-measurement-systems/promis/intro-to-promis</a><br><br>
     
-  PROMIS Scoring: <a href="https://www.healthmeasures.net/promis-scoring-manuals">https://www.healthmeasures.net/promis-scoring-manuals</a><br><br>
+  PROMIS Scoring: <a href="https://www.healthmeasures.net/promis-scoring-manuals" target="_blank">https://www.healthmeasures.net/promis-scoring-manuals</a><br><br>
   
-PROsetta Stone (cross walks PROMIS scores with other common questionnaires): <a href=" http://www.prosettastone.org/Pages/default.aspx"> http://www.prosettastone.org/Pages/default.aspx</a><br><br>
+PROsetta Stone (cross walks PROMIS scores with other common questionnaires): <a href=" http://www.prosettastone.org" target="_blank"> http://www.prosettastone.org</a><br><br>
 
-  PROPr (preference-based scores for use in cost-utility analyses and to estimate quality-adjusted life years [QALYs]): <a href="https://www.healthmeasures.net/score-and-interpret/calculate-scores/preference-based-scores">https://www.healthmeasures.net/score-and-interpret/calculate-scores/preference-based-scores</a><br><br>
+  PROPr (preference-based scores for use in cost-utility analyses and to estimate quality-adjusted life years [QALYs]): <a href="https://www.healthmeasures.net/score-and-interpret/calculate-scores/preference-based-scores" target="_blank">https://www.healthmeasures.net/score-and-interpret/calculate-scores/preference-based-scores</a><br><br>
 
 </details>
 
 <details open>
   <summary><b>PRO-CTCAE:</b></summary>
   
-    All about PRO-CTCAE: <a href="http://healthcaredelivery.cancer.gov/pro-ctcae/">http://healthcaredelivery.cancer.gov/pro-ctcae/</a><br><br>
+    All about PRO-CTCAE: <a href="http://healthcaredelivery.cancer.gov/pro-ctcae/" target="_blank">http://healthcaredelivery.cancer.gov/pro-ctcae/</a><br><br>
     
-  ProAE (SAS macros for standard tables and graphics for PRO-CTCAE): <a href="https://github.com/biostatgirl/ProAE">https://github.com/biostatgirl/ProAE</a><br><br>
+  ProAE (SAS macros for standard tables and graphics for PRO-CTCAE): <a href="https://github.com/biostatgirl/ProAE" target="_blank">https://github.com/biostatgirl/ProAE</a><br><br>
   
-	ProAE (R package for standard tables and graphics for PRO-CTCAE): <a href=" https://cran.r-project.org/web/packages/ProAE/index.html">https://cran.r-project.org/web/packages/ProAE/index.html</a><br><br>
+	ProAE (R package for standard tables and graphics for PRO-CTCAE): <a href=" https://cran.r-project.org/web/packages/ProAE/index.html" target="_blank">https://cran.r-project.org/web/packages/ProAE/index.html</a><br><br>
 
 </details>
 
 <details open>
   <summary><b>Adverse event (AE) analysis resources:</b></summary>
   
-  ToxT SAS macros: <a href="http://bioinformaticstools.mayo.edu/research/toxt/">http://bioinformaticstools.mayo.edu/research/toxt/</a><br><br>
+  ToxT SAS macros: <a href="http://bioinformaticstools.mayo.edu/research/toxt/" target="_blank">http://bioinformaticstools.mayo.edu/research/toxt/</a><br><br>
     
 </details>
 
@@ -61,13 +61,13 @@ PROsetta Stone (cross walks PROMIS scores with other common questionnaires): <a 
   
     Blue Sky is free point-and-click statistical software that operates on top of the R platform.  R is a great platform to learn, but has a steep learning curve, so Blue Sky is a great way to tip toe into the R world of statistical computing!<br><br>
     
-    Blue Sky homepage: <a href="https://www.blueskystatistics.com/">https://www.blueskystatistics.com/</a><br><br>
+    Blue Sky homepage: <a href="https://www.blueskystatistics.com/product" target="_blank">https://www.blueskystatistics.com/product</a><br><br>
     
- Blue Sky video library: <a href="https://www.blueskystatistics.com/category-s/109.htm"> https://www.blueskystatistics.com/category-s/109.htm</a><br><br>
+ Blue Sky video library (scroll down to refernce library section): <a href="https://www.blueskystatistics.com/support" target="_blank"> https://www.blueskystatistics.com/ target="_blank"</a><br> or access Blue Sky You Tube page: <a href="https://www.youtube.com/@blueskystatisticsllc6817" target="_blank">https://www.youtube.com/@blueskystatisticsllc6817"</a><br><br>
   
-	Blue Sky intro guide (PDF): <a href="https://www.blueskystatistics.com/v/vspfiles/downloadables/BlueSky_Statistics_7.1_Intro_Guide.pdf">https://www.blueskystatistics.com/v/vspfiles/downloadables/BlueSky_Statistics_7.1_Intro_Guide.pdf</a><br><br>
+	Blue Sky user guide: <a href="https://r4stats.com/books/bluesky-statistics-user-guide/" target="_blank">https://r4stats.com/books/bluesky-statistics-user-guide/</a><br><br>
 
-</details>
+ </details>
 
 <details open>
   <summary><b>R/R Studio resources:</b></summary>
