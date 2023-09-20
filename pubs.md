@@ -47,7 +47,7 @@ We have categorized notable and foundational publications to give more informati
   <a href="https://pubmed.ncbi.nlm.nih.gov/30985602/" target="_blank">Stover et al, 2019</a><br>
   
 </details>
---
+
 <details open>
   <summary><b>PROMIS:</b></summary>
 
@@ -58,7 +58,7 @@ We have categorized notable and foundational publications to give more informati
   <a href="https://pubmed.ncbi.nlm.nih.gov/32215788/" target="_blank">Hanmer et al, 2020</a><br>
  
 </details>
---
+
 <details open>
   <summary><b>PRO-CTCAE:</b></summary>
 
@@ -107,7 +107,7 @@ We have categorized notable and foundational publications to give more informati
   <a href="https://pubmed.ncbi.nlm.nih.gov/31556911/" target="_blank">Dueck et al, 2020</a> <br><br>
   
 </details>
---
+
 <details open>
   <summary><b>Adverse event (AE) analysis:</b></summary>
   
@@ -127,7 +127,7 @@ We have categorized notable and foundational publications to give more informati
   <a href="https://pubmed.ncbi.nlm.nih.gov/32951293/" target="_blank">Wong et al, 2021</a><br>
   
 </details>
---
+
 <details open>
   <summary><b>Rare diseases:</b></summary>
 
