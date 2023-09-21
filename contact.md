@@ -10,25 +10,6 @@ We would love to hear from you! Do you want more information on anything we shar
 
 - **Email**: [DueckLab@mayo.edu](mailto:DueckLab@mayo.edu)
 
-<head>
-    <title>Contact Us</title>
-</head>
-<body>
-    <h1>Contact Us</h1>
-    <form action="https://example.com/submit-contact-form" method="post">
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name" required><br>
-
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required><br>
-
-        <label for="message">Message:</label><br>
-        <textarea id="message" name="message" rows="4" required></textarea><br>
-
-        <input type="submit" value="Submit">
-    </form>
-</body>
-
 
 <html>
 <head>
@@ -89,45 +70,6 @@ We would love to hear from you! Do you want more information on anything we shar
         }
     </style>
 </head>
-<body>
-    <h1>Contact Us</h1>
-    <form action="https://example.com/submit-contact-form" method="post">
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name" required>
-
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required>
-
-        <label for="message">Message:</label>
-        <textarea id="message" name="message" rows="4" required></textarea>
-
-        <input type="submit" value="Submit">
-    </form>
-</body>
-</html>
-
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Contact Us</title>
-</head>
-<body>
-    <h1>Contact Us</h1>
-    <form action="process-form.php" method="post">
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name" required><br>
-
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required><br>
-
-        <label for="message">Message:</label><br>
-        <textarea id="message" name="message" rows="4" required></textarea><br>
-
-        <input type="submit" value="Submit">
-    </form>
-</body>
-</html>
 
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
@@ -136,16 +78,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = $_POST["email"];
     $message = $_POST["message"];
 
-    // Your email address
+    // Recipient email address
     $to = "DueckLab@mayo.edu";
 
     // Subject and message
     $subject = "Contact Form Submission from $name";
     $message = "Name: $name\nEmail: $email\nMessage:\n$message";
 
-    // Send email
+    // Additional headers
     $headers = "From: $email";
 
+    // Send email
     if (mail($to, $subject, $message, $headers)) {
         echo "Thank you for your message!";
     } else {
@@ -153,3 +96,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 }
 ?>
+
+
+
+
+
+
