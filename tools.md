@@ -47,7 +47,7 @@ PROsetta Stone (cross walks PROMIS scores with other common questionnaires): <a 
 
     Pediatric PRO-CTCAE: <a href="https://healthcaredelivery.cancer.gov/pro-ctcae/instrument-ped.html" target="_blank">https://healthcaredelivery.cancer.gov/pro-ctcae/instrument-ped.html</a><br><br>
     
-  ProAE (SAS macros for standard tables and graphics for PRO-CTCAE): <a href="https://github.com/biostatgirl/ProAE" target="_blank">https://github.com/biostatgirl/ProAE</a><br><br>
+  ProAE (SAS macros for standard tables and graphics for PRO-CTCAE): <a href="https://github.com/DueckLab/ProAE-SAS" target="_blank">https://github.com/DueckLab/ProAE-SAS</a><br><br>
   
 	ProAE (R package for standard tables and graphics for PRO-CTCAE): <a href=" https://cran.r-project.org/web/packages/ProAE/index.html" target="_blank">https://cran.r-project.org/web/packages/ProAE/index.html</a><br><br>
 
