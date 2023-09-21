@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Contact
+alt_title: Contact Us!
 permalink: /contact/
 ---
-
-# Contact Us
 
 We would love to hear from you! Do you want more information on anything we shared, want to suggest additions to our resources and tools or publications page, or do you want to connect with our team?
 
