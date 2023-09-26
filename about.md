@@ -18,4 +18,6 @@ Team Members
 - Molly Voss
 - Minji Lee, PhD
 
+_If you are interested in collaborating or connecting with any member of our team at DueckLab, please reach out!_ ARZDueckLab@mayo.edu
+
 
