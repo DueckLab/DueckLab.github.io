@@ -131,4 +131,4 @@ PROsetta Stone (cross walks PROMIS scores with other common questionnaires): <a 
 </details>
 --
 
-<i>If you are looking for more information on any of the above links, or want to suggest additions, feel free to reach out to our team!</i>
+<i>If you are looking for more information on any of the above links, or want to suggest additions, feel free to reach out to our team!</i> [ARZDueckLab@mayo.edu](mailto:ARZDueckLab@mayo.edu)
