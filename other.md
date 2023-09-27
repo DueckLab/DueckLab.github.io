@@ -16,6 +16,6 @@ _We're excited to share more statistical projects that are currently in progress
 
 
 <br><br><br><br><br><br><br><br>
-_If you want to collaborate with our team at DueckLab, reach out!_  [ARZDueckLab@mayo.edu](mailto:ARZDueckLab@mayo.edu)
+_If you want to collaborate with our team at DueckLab, reach out!_  [DueckLab@mayo.edu](mailto:DueckLab@mayo.edu)
 
   
