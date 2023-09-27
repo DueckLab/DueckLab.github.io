@@ -141,4 +141,4 @@ We have categorized notable and foundational publications to give more informati
 
 --
 
-<i>If you are looking for more information on any of the above articles, or think a publication should be added, feel free to reach out to our team!</i> [ARZDueckLab@mayo.edu](mailto:ARZDueckLab@mayo.edu)
+<i>If you are looking for more information on any of the above articles, or think a publication should be added, feel free to reach out to our team!</i> [DueckLab@mayo.edu](mailto:DueckLab@mayo.edu)
