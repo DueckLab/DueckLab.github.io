@@ -10,7 +10,7 @@ Do you want more information on anything we shared, want to suggest additions to
 
 **Email**: [DueckLab@mayo.edu](mailto:DueckLab@mayo.edu)
 
-
+<!DOCTYPE html>
 <html>
 <head>
     <title>Contact Us</title>
@@ -70,35 +70,45 @@ Do you want more information on anything we shared, want to suggest additions to
         }
     </style>
 </head>
+<body>
+    <h1>Contact Us</h1>
+    <form action="" method="post">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br>
 
-<?php
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    // Retrieve form data
-    $name = $_POST["name"];
-    $email = $_POST["email"];
-    $message = $_POST["message"];
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required><br>
 
-    // Recipient email address
-    $to = "DueckLab@mayo.edu";
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message" rows="4" required></textarea><br>
 
-    // Subject and message
-    $subject = "Contact Form Submission from $name";
-    $message = "Name: $name\nEmail: $email\nMessage:\n$message";
+        <input type="submit" value="Submit">
+    </form>
+    
+    <?php
+    if ($_SERVER["REQUEST_METHOD"] == "POST") {
+        // Retrieve form data
+        $name = $_POST["name"];
+        $email = $_POST["email"];
+        $message = $_POST["message"];
 
-    // Additional headers
-    $headers = "From: $email";
+        // Recipient email address
+        $to = "DueckLab@mayo.edu";
 
-    // Send email
-    if (mail($to, $subject, $message, $headers)) {
-        echo "Thank you for your message!";
-    } else {
-        echo "Oops! Something went wrong.";
+        // Subject and message
+        $subject = "Contact Form Submission from $name";
+        $message = "Name: $name\nEmail: $email\nMessage:\n$message";
+
+        // Additional headers
+        $headers = "From: $email";
+
+        // Send email
+        if (mail($to, $subject, $message, $headers)) {
+            echo "Thank you for your message!";
+        } else {
+            echo "Oops! Something went wrong.";
+        }
     }
-}
-?>
-
-
-
-
-
-
+    ?>
+</body>
+</html>
