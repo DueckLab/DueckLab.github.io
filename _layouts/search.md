@@ -8,3 +8,5 @@ layout: null
 
 <input type="text" id="search-input" placeholder="Search...">
 <div id="search-results"></div>
+
+<script src="/path-to-your/search.js"></script>
