@@ -20,7 +20,7 @@ We have categorized notable and foundational publications to give more informati
   PRO-cision Medicine Toolkit (Medical Care edition focused on PROs implemented in clinical practice):<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/30985589/" target="_blank">Snyder et al, 2019</a><br>
 
-  <a href="https://pubmed.ncbi.nlm.nih.gov/30985590/" target="_blank">Shi et al,2016</a><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/30985590/" target="_blank">Shi et al, 2016</a><br>
 
   <a href="https://pubmed.ncbi.nlm.nih.gov/30985591/" target="_blank">Cook et al, 2019</a><br>
 
