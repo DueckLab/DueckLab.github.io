@@ -84,3 +84,15 @@ defaults:
       layout: post
       read_time: true
 
+  # google analytics 
+  google_analytics: UA-6000100439
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-36YM4MZTY8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-36YM4MZTY8');
+</script>
