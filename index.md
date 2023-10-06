@@ -30,6 +30,10 @@ introduction: |
   </div>
 </div>
 
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <button style="background-color: #2596be; color: white; border: none; padding: 20px 40px; text-align: center; text-decoration: none; display: inline-block; font-size: 20px; margin: 10px 0; cursor: pointer; border-radius: 5px;" onclick="window.location.href='https://duecklab.github.io/contact/'">Contact Us!</button>
+
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RR2YH5HMBL"></script>
 <script>
@@ -40,6 +44,6 @@ introduction: |
   gtag('config', 'G-RR2YH5HMBL');
 </script>
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <button style="background-color: #2596be; color: white; border: none; padding: 20px 40px; text-align: center; text-decoration: none; display: inline-block; font-size: 20px; margin: 10px 0; cursor: pointer; border-radius: 5px;" onclick="window.location.href='https://duecklab.github.io/contact/'">Contact Us!</button>
+
+<script src="js/data.js"></script>
 
