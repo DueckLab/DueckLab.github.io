@@ -40,4 +40,4 @@ var store = [
       } {%- unless forloop.last and l -%}, {%- endunless -%}
     {%- endfor -%}
   {%- endfor -%}
-]
+];
