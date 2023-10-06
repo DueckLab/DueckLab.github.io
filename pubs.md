@@ -142,3 +142,13 @@ We have categorized notable and foundational publications to give more informati
 --
 
 <i>If you are looking for more information on any of the above articles, or think a publication should be added, feel free to reach out to our team!</i> [DueckLab@mayo.edu](mailto:DueckLab@mayo.edu)
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RR2YH5HMBL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RR2YH5HMBL');
+</script>
