@@ -132,3 +132,13 @@ PROsetta Stone (cross walks PROMIS scores with other common questionnaires): <a 
 --
 
 <i>If you are looking for more information on any of the above links, or want to suggest additions, feel free to reach out to our team!</i> [DueckLab@mayo.edu](mailto:DueckLab@mayo.edu)
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RR2YH5HMBL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RR2YH5HMBL');
+</script>
