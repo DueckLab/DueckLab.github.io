@@ -11,3 +11,31 @@ layout: null
     }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
+
+[
+    {
+        "url": "https://duecklab.github.io/",
+        "title": "Welcome to Dueck Lab",
+        "content": "This is the home page with links to About ProAE ToxT Other Statistical Projects Resources and Tools Publications and Contact "
+    },
+    {
+        "url": "https://duecklab.github.io/about.html",
+        "title": "About",
+        "content": "This is the Dueck Lab about page listing all members Dueck Basch Thanarajasingam Mazza Rogak Langlais Ginos Noble Voss Lee"
+    },
+    {
+        "url": "/page3",
+        "title": "Page 3",
+        "content": "This is the content of Page 3."
+    },
+    {
+        "url": "/blog/post1",
+        "title": "Blog Post 1",
+        "content": "This is the content of Blog Post 1."
+    },
+    {
+        "url": "/blog/post2",
+        "title": "Blog Post 2",
+        "content": "This is the content of Blog Post 2."
+    }
+]
