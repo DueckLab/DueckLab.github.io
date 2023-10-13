@@ -2,13 +2,9 @@
 layout: null
 ---
 
----
-layout: null
----
-
 document.addEventListener('DOMContentLoaded', function () {
   // Path to your search data JSON file
-  const searchDataURL = '/path-to-your/search_data.json';
+  const searchDataURL = '/_layouts/search_data.json';
 
   // Variables for DOM elements
   const searchInput = document.getElementById('search-input');
