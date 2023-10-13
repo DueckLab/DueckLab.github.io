@@ -16,13 +16,21 @@ layout: null
     {
         "url": "https://duecklab.github.io/",
         "title": "Welcome to Dueck Lab",
-        "content": "This is the home page with links to About ProAE ToxT Other Statistical Projects Resources and Tools Publications and Contact "
-    },
+        "content": [
+            "This is the home page with links to About ProAE ToxT Other Statistical Projects Resources and Tools Publications and Contact"
+        ]
+    }
+]
+
     {
         "url": "https://duecklab.github.io/about.html",
         "title": "About",
-        "content": "This is the Dueck Lab about page listing all members Dueck Basch Thanarajasingam Mazza Rogak Langlais Ginos Noble Voss Lee"
-    },
+        "content": [
+            "This is the Dueck Lab about page listing all members Dueck Basch Thanarajasingam Mazza Rogak Langlais Ginos Noble Voss Lee"
+        ]
+    }
+]
+
     {
         "url": "/page3",
         "title": "Page 3",
