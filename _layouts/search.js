@@ -2,7 +2,25 @@
 layout: null
 ---
 
-document.addEventListener('DOMContentLoaded', function () {
+// Include Lunr.js library
+<script src="https://cdn.jsdelivr.net/npm/lunr/lunr.js"></script>
+
+// Your custom search logic
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    // Load your JSON data (search_data.json)
+    fetch('/_layouts/search_data.json')
+      .then(response => response.json())
+      .then(data => {
+        // Create a Lunr.js search index and perform searches
+        // ...
+    })
+    .catch(error => {
+      console.error('Error loading search data:', error);
+    });
+});
+</script>
+
   // Path to your search data JSON file
   const searchDataURL = '{{ site.baseurl }}/_layouts/search_data.json';
 
