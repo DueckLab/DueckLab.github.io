@@ -9,7 +9,7 @@ layout: null
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     // Load your JSON data (search_data.json)
-    fetch('/_layouts/search_data.json')
+    fetch('/search_data.json')
       .then(response => response.json())
       .then(data => {
         // Create a Lunr.js search index and perform searches
@@ -22,7 +22,7 @@ layout: null
 </script>
 
   // Path to your search data JSON file
-  const searchDataURL = '{{ site.baseurl }}/_layouts/search_data.json';
+  const searchDataURL = '{{ site.baseurl }}/search_data.json';
 
   // Variables for DOM elements
   const searchInput = document.getElementById('search-input');
