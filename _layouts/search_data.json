@@ -1,55 +1,40 @@
 ---
 layout: null
 ---
-
 [
     {
         "url": "https://duecklab.github.io/",
         "title": "Welcome to Dueck Lab",
-        "content": [
-            "This is the home page with links to About ProAE ToxT Other Statistical Projects Resources and Tools Publications and Contact"
-        ]
+        "content": "This is the home page with links to About ProAE ToxT Other Statistical Projects Resources and Tools Publications and Contact"
     },
     {
         "url": "https://duecklab.github.io/about.html",
         "title": "About",
-        "content": [
-            "This is the Dueck Lab about page listing all members Dueck Basch Thanarajasingam Mazza Rogak Langlais Ginos Noble Voss Lee"
-        ]
+        "content": "This is the Dueck Lab about page listing all members Dueck Basch Thanarajasingam Mazza Rogak Langlais Ginos Noble Voss Lee"
     },
     {
         "url": "https://duecklab.github.io/proae.html",
         "title": "ProAE",
-        "content": [
-          "ProAE is a collection of tools to facilitate standardized analysis and graphical procedures when using PRO-CTCAE data (available as R package and SAS macros). Scoring applications, statistical tables, graphical approaches, summary measure applications, and missing data analysis approaches are available."
-        ]
+        "content": "ProAE is a collection of tools to facilitate standardized analysis and graphical procedures when using PRO-CTCAE data (available as R package and SAS macros). Scoring applications, statistical tables, graphical approaches, summary measure applications, and missing data analysis approaches are available."
     },
     {
         "url": "https://duecklab.github.io/toxt.html",
         "title": "ToxT",
-        "content":  [
-          "Toxicity over Time ToxT Thanarajasingam adverse events method clinical trial improving cancer treatments ToxT SAS macros Longitudinal toxicity maximum grade."
-        ]
-      },
-      {
+        "content": "Toxicity over Time ToxT Thanarajasingam adverse events method clinical trial improving cancer treatments ToxT SAS macros Longitudinal toxicity maximum grade."
+    },
+    {
         "url": "https://duecklab.github.io/other.html",
         "title": "Other Statistical Projects",
-        "content": [
-          "We’re excited to share more statistical projects that are currently in progress at Dueck Lab"
-        ] 
-     },
-     {
+        "content": "We’re excited to share more statistical projects that are currently in progress at Dueck Lab"
+    },
+    {
         "url": "https://duecklab.github.io/tools.html",
         "title": "Resources and Tools",
-        "content": [
-          "This page contains the various resources and tools that have been created by our group, our colleagues and the PRO community at-large Patient-reported outcomes PROs PROMIS PRO-CTCAE Adverse Event AE analysis Blue Sky statistcal software R studio Clinical Trial Design Publishing."
-        ]
-     },
-     {
+        "content": "This page contains the various resources and tools that have been created by our group, our colleagues and the PRO community at-large Patient-reported outcomes PROs PROMIS PRO-CTCAE Adverse Event AE analysis Blue Sky statistical software R studio Clinical Trial Design Publishing."
+    },
+    {
         "url": "https://duecklab.github.io/pubs.html",
         "title": "Publications",
-        "content": [
-          "notable and foundational publications Patient-reported outcomes PROs PROMIS PRO-CTCAE Adverse Event Analysis AE rare diseases Dueck Basch Thanarajasingam."        
-        ] 
-     }
+        "content": "notable and foundational publications Patient-reported outcomes PROs PROMIS PRO-CTCAE Adverse Event Analysis AE rare diseases Dueck Basch Thanarajasingam."
+    }
 ]
