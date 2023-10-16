@@ -4,7 +4,7 @@ layout: null
 
 document.addEventListener('DOMContentLoaded', function () {
   // Path to your search data JSON file
-  const searchDataURL = '/_layouts/search_data.json';
+  const searchDataURL = '{{ site.baseurl }}/_layouts/search_data.json';
 
   // Variables for DOM elements
   const searchInput = document.getElementById('search-input');
