@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Search
@@ -19,6 +18,5 @@ permalink: /search/
 <input type="text" id="search-input" placeholder="Search...">
 <div id="search-results"></div>
 
-<a href="/search.html">Link to HTML Page</a>
 
 <script src="/_layouts/search.js"></script>
