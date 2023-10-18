@@ -8,6 +8,7 @@ permalink: /search/
 <!DOCTYPE html>
 <html>
 <head>
+  <title>{{ page.title }}</title> <!-- Added this line -->
   <script src="https://cdn.jsdelivr.net/npm/lunr/lunr.js"></script>
 </head>
 <body>
@@ -17,4 +18,5 @@ permalink: /search/
 
 <script src="/_layouts/search.js"></script>
 </html>
+
 
