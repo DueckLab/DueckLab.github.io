@@ -5,7 +5,7 @@ alt_title: Search page
 permalink: /search/
 ---
 
-# # <!DOCTYPE html>
+
 <html>
 <head>
   <title>{{ page.title }}</title> <!-- Added this line -->
