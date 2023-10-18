@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Search
-alt_title: What are you looking for?
+alt_title: Search page
 permalink: /search/
 ---
 
-<!DOCTYPE html>
+# # <!DOCTYPE html>
 <html>
 <head>
   <title>{{ page.title }}</title> <!-- Added this line -->
