@@ -10,6 +10,18 @@ permalink: /search/
   </style>
 ---
 
+<html>
+<head>
+  <title>{{ page.title }}</title> <!-- Added this line -->
+  <script src="https://cdn.jsdelivr.net/npm/lunr/lunr.js"></script>
+</head>
+<body>
+  <input type="text" id="search-input" placeholder="Search...">
+  <div id="search-results"></div>
+</body>
+
+<script src="/_layouts/search.js"></script>
+</html>
 <form action="/search.html" method="get">
   <label for="search-box">Search</label>
   <input type="text" id="search-box" name="query">
