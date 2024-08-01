@@ -23,7 +23,9 @@ CONSORT-PRO extension (this <a href="http://www.consort-statement.org/extensions
 
    EORTC Item Library: <a href="https://qol.eortc.org/item-library/" target="_blank">https://qol.eortc.org/item-library/</a><br><br>
 
-  FACT Questionnaires, Scoring & Item Library: <a href="https://www.facit.org/facit-measures-searchable-library" target="_blank">https://www.facit.org/facit-measures-searchable-library</a><br><br>
+  FACT Questionnaires, Scoring & Item Library: <a href="https://www.facit.org/facit-measures-searchable-library" target="_blank">https://www.facit.org/facit-measures-searchable-library</a><br>
+
+  Adult Sickle Cell Quality of Life Measurement Information System: <a href="https://https://ascq-me.org/" target="_blank"> https://https://ascq-me.org/</a><br><br>
   
 </details>
 
