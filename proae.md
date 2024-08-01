@@ -19,6 +19,8 @@ ProAE is a collection of tools to facilitate standardized analysis and graphical
 
 [PRO-CTCAE Composite Grading Algorithm](https://pubmed.ncbi.nlm.nih.gov/33258687/)
 
+For a complete and up to date listing of publications, please visit our [publications page!](https://duecklab.github.io/pubs.html)
+
 _Interested in using our macros but having a hard time getting started? Reach out to us and we'd love to help!_  
  [DueckLab@mayo.edu](mailto:DueckLab@mayo.edu)
 
