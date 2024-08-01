@@ -12,6 +12,8 @@ Adverse event development in clinical oncology trials - Authors' reply - <a href
 Longitudinal Toxicity over Time (ToxT) analysis to evaluate tolerability: a case study of lenalidomide in the CALGB 50401 (Alliance) trial - <a href="https://pubmed.ncbi.nlm.nih.gov/32470440/" target="_blank">Thanarajasingam et al, 2020</a><br><br>
 Expanding Beyond Maximum Grade: Chemotherapy Toxicity over Time by Age and Performance Status in Advanced Non-Small Cell Lung Cancer in CALGB 9730 (Alliance A151729) - <a href="https://pubmed.ncbi.nlm.nih.gov/32951293/" target="_blank">Wong et al, 2021</a><br><br>
 
+For a complete and up to date listing of publications, please visit our [publications page!](https://duecklab.github.io/pubs.html)
+
 _If you're interested in using ToxT or want to discuss more, feel free to contact our team!_ [DueckLab@mayo.edu](mailto:DueckLab@mayo.edu)
 
 <!-- Google tag (gtag.js) -->
