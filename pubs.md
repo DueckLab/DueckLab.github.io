@@ -104,7 +104,7 @@ Geriatric Assessment and PRO-CTCAE:<br>
   Strategy to select symptomatic AEs for administration:<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/30230365/" target="_blank">Trask et al, 2018</a><br><br>
     
-  What do “Mild”, “Moderate”, … mean to patients?:<br><br>
+  What do “Mild”, “Moderate”, … mean to patients?:<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/29129739/" target="_blank">Atkinson et al, 2018</a><br><br>
     
   Use of free text items:<br>
@@ -152,7 +152,7 @@ Geriatric Assessment and PRO-CTCAE:<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/33025482/" target="_blank">Filho et al, 2021 (heat maps)</a><br><br>
 
   General Guidance for Implementations of PRO-CTCAE:<br>
-  <a href="https://pubmed.ncbi.nlm.nih.gov/27045992/" target="_blank">Basch et al, 20216</a><br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/27045992/" target="_blank">Basch et al, 2016</a><br><br>
 
   <a href="https://pubmed.ncbi.nlm.nih.gov/35575014/" target="_blank">Basch et al, 2022</a><br><br>
 
@@ -179,7 +179,7 @@ Alerts:<br>
 <details open>
   <summary><b>Adverse event (AE) analysis:</b></summary>
   
-  Lancet Haematology Commission on modernizing approach to AEs:<br><br>
+  Lancet Haematology Commission on modernizing approach to AEs:<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/29907552/" target="_blank">Thanarajasingam et al, 2018</a><br><br>
     
   Update to Lancet Haematology Commission:<br>
@@ -213,7 +213,7 @@ Alerts:<br>
 <details open>
 
   <summary><b>Patient Reported Physical Function:</b></summary>
-Integrating 4 methods to evaluate physical function in patients with cancer (In4M):<br><br>
+Integrating 4 methods to evaluate physical function in patients with cancer (In4M):<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/38199641/" target="_blank">Thanarajasingam et al, 2024</a><br><br>
 
 </details>
