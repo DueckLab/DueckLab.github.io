@@ -11,6 +11,8 @@ This page contains the various resources and tools that have been created by our
   
   PROTEUS (toolbox of PRO resources): <a href="https://theproteusconsortium.org/" target="_blank">https://theproteusconsortium.org/</a><br><br>
     
+ Tolerability Consortium: <a href="https://prevention.cancer.gov/major-programs/cancer-treatment-tolerability-consortium" target="_blank">https://prevention.cancer.gov/major-programs/cancer-treatment-tolerability-consortium/</a><br><br> 
+ 
   SISAQOL webtool: <a href="https://www.sisaqol-imi.org/interactive-webtool/" target="_blank">https://www.sisaqol-imi.org/interactive-webtool/</a><br><br>
   
 CONSORT-PRO extension (this <a href="http://www.consort-statement.org/extensions/overview/consort-pro">website</a> is currently being updated, all links can be found here): <a href="https://www.equator-network.org/" target="_blank">https://www.equator-network.org/</a><br><br>
