@@ -122,6 +122,8 @@ Pilot sample size of 30 justification: <a href="https://pubmed.ncbi.nlm.nih.gov/
  Mayo Clinic statistical code: <a href="https://bioinformaticstools.mayo.edu" target="_blank">https://bioinformaticstools.mayo.edu</a><br><br>
 
  CDISC standards: <a href="https://www.cdisc.org/standards" target="_blank">https://www.cdisc.org/standards</a><br><br>
+
+ Power and sample size calculators: <a href="http://powerandsamplesize.com" target="_blank">http://powerandsamplesize.com</a><br><br>
   
 </details>
 
