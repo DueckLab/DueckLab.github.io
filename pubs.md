@@ -16,6 +16,9 @@ We have categorized notable and foundational publications to give more informati
   
   CONSORT-PRO extension:<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/23443445/" target="_blank">Calvert et al, 2013</a><br><br>
+
+  Recommendations for using item libraries:<br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/36725153/" target="_blank">Piccinin et al, 2023</a><br><br>
   
   PRO-cision Medicine Toolkit (Medical Care edition focused on PROs implemented in clinical practice):<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/30985589/" target="_blank">Snyder et al, 2019</a><br><br>
