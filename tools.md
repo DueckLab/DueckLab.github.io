@@ -136,7 +136,6 @@ Pilot sample size of 30 justification: <a href="https://pubmed.ncbi.nlm.nih.gov/
  <summary><b>Which statistical test to use?:</b></summary>
 GraphPad Knowledge Base: <a href="https://www.graphpad.com/support/faqid/1790/" target="_blank">https://www.graphpad.com/support/faqid/1790/</a><br><br>
 
-https://www.graphpad.com/support/faqid/1790/
 </details>
   
 <details open>
