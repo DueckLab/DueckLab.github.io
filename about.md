@@ -17,6 +17,16 @@ Team Members
 - Brie Noble
 - Molly Voss
 - Minji Lee, PhD
+- Allison Deal, MS
+- Carolyn Mean-Harvey, MS
+- Claire Yee, PhD
+- Eric Meek
+- Paul Novotny, MS
+- Bellinda King-Kallmanis, PhD
+- Bryce Reeve, PhD
+- Briant Fruth
+- Philip Carr
+- Anna Bodily
 
 _If you are interested in collaborating or connecting with any member of our team at DueckLab, please reach out!_   [DueckLab@mayo.edu](mailto:DueckLab@mayo.edu)
 
