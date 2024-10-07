@@ -5,13 +5,7 @@ layout: page
 
 We are proud to share select poster and oral presentations that our team has given. domestic and internationally. We will update this page as often as possible, however if you are looking for a specific poster, slides or other details, please reach out to DueckLab@mayo.edu and we'll help!
 
-#ISOQOL 31st Annual Conference, October 13-16th, 2024, Cologne, Germany
-
-[<img src="DueckLab.github.io/assets/images/Rogak PRO CTCAE use poster_FINAL TO PRINT.png">](DueckLab.github.io/assets/images
-/Rogak PRO CTCAE use poster_FINAL TO PRINT.pdf)
-)
-
-
+ISOQOL 31st Annual Conference, October 13-16th, 2024, Cologne, Germany
 
 
 
