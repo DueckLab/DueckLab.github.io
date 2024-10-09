@@ -7,10 +7,10 @@ We are proud to share select poster and oral presentations that our team has giv
 
 ISOQOL 31st Annual Conference, October 13-16th, 2024, Cologne, Germany
 
-<embed src="https://DueckLab.github.io/assets/images/ISOQOLDeal.pdf" type=application/pdf"/>
 
 <img width="300" alt= ISOQOLDeal src="/assets/images/ISOQOLDeal.png"><br>
-[download pdf](https://duecklab.github.io/assets/images.ISOQOLDeal.pdf)
+[download Deal et al](https://duecklab.github.io/assets/images.ISOQOLDeal.pdf)
+[contact Allison Deal](mailto:allison_deal@med.unc.edu)
 
 
 
