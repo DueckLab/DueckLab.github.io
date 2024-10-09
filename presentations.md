@@ -13,11 +13,9 @@ ISOQOL 31st Annual Conference, October 13-16th, 2024, Cologne, Germany
 
 
 
-[![Allison Deal ISOQOL Poster](https://duecklab.github.com/assets/images/ISOQOL.png)](https://duecklab.github.io/assets/images/ISOQOLDeal.pdf)
 
 
-
-
+[<img width="300" alt= ISOQOLDeal src="/assets/images/ISOQOLDeal.png">](https://duecklab.github.io/assets/images/ISOQOLDeal.pdf) 
 
 
 
