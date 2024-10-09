@@ -1,7 +1,6 @@
 ---
 title: "Presentations"
 layout: page
-permalink: /Presentations/
 ---
 
 We are proud to share select poster and oral presentations that our team has given. domestic and internationally. We will update this page as often as possible, however if you are looking for a specific poster, slides or other details, please reach out to DueckLab@mayo.edu and we'll help!
