@@ -9,7 +9,7 @@ ISOQOL 31st Annual Conference, October 13-16th, 2024, Cologne, Germany
 
 
 <img width="300" alt= ISOQOLDeal src="/assets/images/ISOQOLDeal.png"><br>
-[download Deal et al](https://duecklab.github.io/assets/images.ISOQOLDeal.pdf)
+[download PDF of Deal et al](https://duecklab.github.io/assets/images.ISOQOLDeal.pdf)
 [contact Allison Deal](mailto:allison_deal@med.unc.edu)
 
 
