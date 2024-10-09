@@ -127,7 +127,7 @@ Pilot sample size of 30 justification: <a href="https://pubmed.ncbi.nlm.nih.gov/
 
  CDISC standards: <a href="https://www.cdisc.org/standards" target="_blank">https://www.cdisc.org/standards</a><br><br>
 
- Power and sample size calculators: <a href="[http://powerandsamplesize.com](https://powercalc.ca/)" target="_blank">https://powercalc.ca/</a><br><br>
+ Power and sample size calculators: <a href="https://powercalc.ca/" target="_blank">https://powercalc.ca/</a><br><br>
   
 </details>
 
