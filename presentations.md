@@ -7,6 +7,8 @@ We are proud to share select poster and oral presentations that our team has giv
 
 ISOQOL 31st Annual Conference, October 13-16th, 2024, Cologne, Germany
 
+<img width="150" imgsrc="/assets/images/assets/images/ISOQOLRogak.png">(http://DueckLab.github.io/assets/images/ISOQOLRogak.pdf)![image](https://github.com/user-attachments/assets/ba73e330-d35d-4b1b-9471-f8ddced98add)
+
 
 
 
