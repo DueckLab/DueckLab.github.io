@@ -9,15 +9,17 @@ ISOQOL 31st Annual Conference, October 13-16th, 2024, Cologne, Germany <br>
 _(click images to download pdf)_
 
 
-[<img width="300" alt= ISOQOLGita onclick="window.open(this.src, '_blank') src="/assets/images/ISOQOLGita.png">](https://duecklab.github.io/assets/images/ISOQOLGita.pdf)     [<img width="300" alt= ISOQOLMazza src="/assets/images/ISOQOLMazza.png">](https://duecklab.github.io/assets/images/ISOQOLMazza.pdf)     [<img width="300" alt= ISOQOLRogak src="/assets/images/ISOQOLRogak.png">](https://duecklab.github.io/assets/images/ISOQOLRogak.pdf)     [<img width="300" alt= ISOQOLNoble src="/assets/images/ISOQOLNoble.png">](https://duecklab.github.io/assets/images/ISOQOLNoble.pdf)     [<img width="300" alt= ISOQOLGinos src="/assets/images/ISOQOLGinos.png">](https://duecklab.github.io/assets/images/ISOQOLGinos.pdf)     [<img width="300" alt= ISOQOLBasch src="/assets/images/ISOQOLJansen.png">](https://duecklab.github.io/assets/images/ISOQOLJansen.pdf)     [<img width="300" alt= ISOQOLDeal src="/assets/images/ISOQOLDeal.png">](https://duecklab.github.io/assets/images/ISOQOLDeal.pdf)<br> 
+[<img width="250" alt= ISOQOLGita src="/assets/images/ISOQOLGita.png">](https://duecklab.github.io/assets/images/ISOQOLGita.pdf)     [<img width="250" alt= ISOQOLMazza src="/assets/images/ISOQOLMazza.png">](https://duecklab.github.io/assets/images/ISOQOLMazza.pdf)     [<img width="250" alt= ISOQOLRogak src="/assets/images/ISOQOLRogak.png">](https://duecklab.github.io/assets/images/ISOQOLRogak.pdf)     [<img width="250" alt= ISOQOLNoble src="/assets/images/ISOQOLNoble.png">](https://duecklab.github.io/assets/images/ISOQOLNoble.pdf)     [<img width="250" alt= ISOQOLGinos src="/assets/images/ISOQOLGinos.png">](https://duecklab.github.io/assets/images/ISOQOLGinos.pdf)     [<img width="250" alt= ISOQOLBasch src="/assets/images/ISOQOLJansen.png">](https://duecklab.github.io/assets/images/ISOQOLJansen.pdf)     [<img width="250" alt= ISOQOLDeal src="/assets/images/ISOQOLDeal.png">](https://duecklab.github.io/assets/images/ISOQOLDeal.pdf)<br> 
 
 
- <a href="(https://duecklab.github.io/assets/images/ISOQOLGita.pdf" target="_blank">
-<img src="(https://duecklab.github.io/assets/images/ISOQOLGita.png" alt=ISOQOLGita""
-                                        style="padding: 15px 0;;width: 37rem;max-width: 100%;height: auto;vertical-align: middle;border-style: none;">
-</a>
 
 
+
+
+<br>
+<br>
+<br>
+---
 
 _If you are interested in collaborating or connecting with any member of our team at DueckLab, please reach out!_   [DueckLab@mayo.edu](mailto:DueckLab@mayo.edu)
 
