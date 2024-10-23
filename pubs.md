@@ -145,8 +145,8 @@ Geriatric Assessment and PRO-CTCAE:<br>
   Lee et al, 2024 (in press)<br><br>
 
   Statistical Properties of PRO-CTCAE:<br>
-  Mead-Harvey et al, 2024 (in press)<br><br>
-
+ <a href="https://pubmed.ncbi.nlm.nih.gov/39440720/" target="_blank">Mead-Harvey et al, 2024</a><br><br>
+ 
   Other Visualization and Statistical Approaches to PRO-CTCAE:<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/36715639/" target="_blank">Regnault et al, 2023 (model-based)</a><br><br>
 
