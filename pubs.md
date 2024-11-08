@@ -61,7 +61,7 @@ We have categorized notable and foundational publications to give more informati
   <a href="https://pubmed.ncbi.nlm.nih.gov/32215788/" target="_blank">Hanmer et al, 2020</a><br><br>
 
   PROMIS pediatric measures:<br>
-   <a href="https://pubmed.ncbi.nlm.nih.gov/31904157/" target="_blank">Reeve et al, 2020</a><br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/31904157/" target="_blank">Reeve et al, 2020</a><br><br>
  
 </details>
 
@@ -142,7 +142,7 @@ Geriatric Assessment and PRO-CTCAE:<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/37334719/" target="_blank">Snyder et al, 2023</a><br><br>
 
   Meaningful Change:<br>
-  Lee et al, 2024 (in press)<br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/39503942/" target="_blank">Lee et al, 2024</a><br><br>
 
   Statistical Properties of PRO-CTCAE:<br>
  <a href="https://pubmed.ncbi.nlm.nih.gov/39440720/" target="_blank">Mead-Harvey et al, 2024</a><br><br>
