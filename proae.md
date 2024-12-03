@@ -13,6 +13,8 @@ layout: page
 
 ProAE is a collection of tools to facilitate standardized analysis and graphical procedures when using PRO-CTCAE data (available as R package and SAS macros). Scoring applications, statistical tables, graphical approaches, summary measure applications, and missing data analysis approaches are available.
 
+For a video tutorial of how to use ProAE with your data, we have created a video: [<img width="350" alt= NCI_DCP_Tolerability_Consortium_Video_COVER IMAGE src="/assets/images/NCI_DCP_Tolerability_Consortium_Video_COVER IMAGE.png">](https://duecklab.github.io/assets/images/NCI_DCP_Tolerability_Consortium_Video_Tutorial_FINAL_reduced .mp4.pdf![image](https://github.com/user-attachments/assets/96ec39e5-ca65-42ef-8642-413f35487c14)
+
 [CRAN documentation](https://CRAN.R-project.org/package=ProAE)
 
 [SAS macros](https://github.com/DueckLab/ProAE-SAS)
