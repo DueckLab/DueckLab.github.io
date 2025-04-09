@@ -100,6 +100,7 @@ We have categorized notable and foundational publications to give more informati
 
 Geriatric Assessment and PRO-CTCAE:<br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/36356279/" target="_blank">Culakova et al, 2023</a><br><br>
+<a href="https://prevention.cancer.gov/news-and-events/videos-and-webinars/improving-cancer-care-older-adults-role-geriatric-assessments" target="_blank">Mohile et al, 2025 (DCP Webinar)</a><br><br>
 
    US FDA & NCI view on clinical review, IND safety reporting, & site inspections:<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/29237718/" target="_blank">Kim et al, 2018</a><br><br>
@@ -129,6 +130,9 @@ Geriatric Assessment and PRO-CTCAE:<br>
   
   Missing Data Analyses:<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/34420143/" target="_blank">Mazza et al, 2022</a><br><br>
+  
+  Advanced Tools for Patient-Reported Adverse Event Analysis in Clinical Trials:<br>
+  <a href="https://prevention.cancer.gov/news-and-events/videos-and-webinars/proae-r-package-advanced-tools-patient-reported-adverse-event" target="_blank">Langlais et al, 2025 (DCP Webinar)</a><br><br>
   
   Example of PRO-CTCAE in a trial:<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/30575484/" target="_blank">Gounder et al, 2018 (PRO-CTCAE is reported in the supplemental appendix)</a><br><br>
@@ -207,6 +211,9 @@ Alerts:<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/34371138/" target="_blank">Langlais et al, 2022 (applied to PRO-CTCAE)</a><br><br>
 
   <a href="https://pubmed.ncbi.nlm.nih.gov/36245019/" target="_blank">Calsavara et al, 2023</a><br><br>
+
+<a href="https://prevention.cancer.gov/news-and-events/videos-and-webinars/understanding-toxicity-index-superior-measure-adverse-event" target="_blank">Yothers et al, 2025 (DCP Webinar)</a><br><br>
+  
 
   Importance of low and moderate grade adverse events:<br>
  <a href="https://pubmed.ncbi.nlm.nih.gov/37801678/" target="_blank">O'Connell et al, 2024</a><br><br>
