@@ -48,7 +48,10 @@ We have categorized notable and foundational publications to give more informati
   <a href="https://pubmed.ncbi.nlm.nih.gov/30985601/" target="_blank">Girgis et al, 2019</a><br><br>
     
   <a href="https://pubmed.ncbi.nlm.nih.gov/30985602/" target="_blank">Stover et al, 2019</a><br><br>
-  
+
+  Best Practices:<br>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/39989038/" target="_blank">Bandos et al, 2024</a><br><br>
+    
 </details>
 
 <details open>
@@ -174,6 +177,9 @@ Electronic Reporting:<br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/34634754/" target="_blank">Mody et al, 2021 (Patient Perspective)</a><br><br>
 
 <a href="https://pubmed.ncbi.nlm.nih.gov/35661856/" target="_blank">Basch et al, 2022 (Effect on QOL)</a><br><br>
+
+<a href="https://pubmed.ncbi.nlm.nih.gov/39920394/"_blank">Basch et al, 2025 (Final study results)</a><br><br>
+
 
 Financial Toxicity:<br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/37625107/" target="_blank">Blinder et al, 2023</a><br><br>
