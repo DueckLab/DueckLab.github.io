@@ -22,6 +22,9 @@ For a video tutorial of how to use ProAE with your data:
 
 [PRO-CTCAE Composite Grading Algorithm](https://pubmed.ncbi.nlm.nih.gov/33258687/)
 
+[R Code Snippet from Dueck, et al, Cancer, 2025](https://duecklab.github.io/assets/images/R code snippet_best_practices.pdf)<br>
+
+
 For a complete and up to date listing of publications, please visit our [publications page!](https://duecklab.github.io/pubs.html)
 
 _Interested in using our macros but having a hard time getting started? Reach out to us and we'd love to help!_  
