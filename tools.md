@@ -55,9 +55,10 @@ PROsetta Stone (cross walks PROMIS scores with other common questionnaires): <a 
     
   ProAE (SAS macros for standard tables and graphics for PRO-CTCAE): <a href="https://github.com/DueckLab/ProAE-SAS" target="_blank">https://github.com/DueckLab/ProAE-SAS</a><br><br>
   
-	ProAE (R package for standard tables and graphics for PRO-CTCAE): <a href=" https://cran.r-project.org/web/packages/ProAE/index.html" target="_blank">https://cran.r-project.org/web/packages/ProAE/index.html</a><br><br>
+	ProAE (R package for standard tables and graphics for PRO-CTCAE): <a href="https://cran.r-project.org/web/packages/ProAE/index.html" target="_blank">https://cran.r-project.org/web/packages/ProAE/index.html</a><br><br>
 
-ProAE R Package: Advanced Tools for Patient-Reported Adverse Event Analysis in Clinical Trials (Video How-To): <a href="  https://prevention.cancer.gov/news-and-events/videos-and-webinars/proae-r-package-advanced-tools-patient-reported-adverse-event</a><br><br>
+ProAE R Package: Advanced Tools for Patient-Reported Adverse Event Analysis in Clinical Trials (Video How-To): 
+<a href="https://prevention.cancer.gov/news-and-events/videos-and-webinars/proae-r-package-advanced-tools-patient-reported-adverse-event" target="_blank">(</a><br><br>
 </details>
 
 <details open>
