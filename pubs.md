@@ -178,8 +178,7 @@ Electronic Reporting:<br>
 
 <a href="https://pubmed.ncbi.nlm.nih.gov/35661856/" target="_blank">Basch et al, 2022 (Effect on QOL)</a><br><br>
 
-<a href="https://pubmed.ncbi.nlm.nih.gov/39920394/" target=_blank">Basch et al, 2025 (Final study results)</a><br><br>
-
+<a href="https://pubmed.ncbi.nlm.nih.gov/39920394/" target="_blank">Basch et al, 2025 (Final study results)</a><br><br>
 
 Financial Toxicity:<br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/37625107/" target="_blank">Blinder et al, 2023</a><br><br>
