@@ -139,6 +139,9 @@ Geriatric Assessment and PRO-CTCAE:<br>
   
   Advanced Tools for Patient-Reported Adverse Event Analysis in Clinical Trials:<br>
   <a href="https://prevention.cancer.gov/news-and-events/videos-and-webinars/proae-r-package-advanced-tools-patient-reported-adverse-event" target="_blank">Langlais et al, 2025 (National Cancer Institute Department of Cancer Prevention Webinar)</a><br><br>
+
+  Use of PRO-CTCAE in clinical trials:<br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/40989554/" target="_blank">Rogak et al, 2025</a><br><br>
   
   Example of PRO-CTCAE in a trial:<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/30575484/" target="_blank">Gounder et al, 2018 (PRO-CTCAE is reported in the supplemental appendix)</a><br><br>
