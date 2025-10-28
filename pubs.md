@@ -49,7 +49,7 @@ We have categorized notable and foundational publications to give more informati
     
   <a href="https://pubmed.ncbi.nlm.nih.gov/30985602/" target="_blank">Stover et al, 2019</a><br><br>
 
-  Best Practices:<br>
+  Best Practices for PROs:<br>
     <a href="https://pubmed.ncbi.nlm.nih.gov/39989038/" target="_blank">Bandos et al, 2024</a><br><br>
     
 </details>
@@ -69,7 +69,7 @@ We have categorized notable and foundational publications to give more informati
 </details>
 
 <details open>
-  <summary><b>PRO-CTCAE:</b></summary>
+  <summary><b>:</b></summary>
 
   Item generation:<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/25265940/" target="_blank">Basch et al, 2014</a><br><br>
@@ -100,6 +100,9 @@ We have categorized notable and foundational publications to give more informati
 <a href="https://pubmed.ncbi.nlm.nih.gov/33332590/" target="_blank">Reeve et al, 2021 (validation of caregiver)</a><br><br>
 
 <a href="https://pubmed.ncbi.nlm.nih.gov/34866311/" target="_blank">Reeve et al, 2022 (scoring recommendations)</a><br><br>
+
+Best Practices for PRO-CTCAE: <br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/41123546/" target="_blank">Dueck et al, 2025 </a><br><br>
 
 Geriatric Assessment and PRO-CTCAE:<br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/36356279/" target="_blank">Culakova et al, 2023</a><br><br>
