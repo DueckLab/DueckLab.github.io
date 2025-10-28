@@ -5,6 +5,12 @@ layout: page
 
 We are proud to share select poster and oral presentations that our team has given both domestic and internationally. We will update this page as often as possible, however if you are looking for a specific poster, slides or other details, please reach out to [DueckLab@mayo.edu](mailto:DueckLab@mayo.edu) and we'll help!
 
+ISOQOL 32nd Annual Conference, October 22-25th, 2025, Milwaukee, Wisconsin, USA<br>
+     _(click images to download pdf)_
+
+
+
+
 
 ISOQOL 31st Annual Conference, October 13-16th, 2024, Cologne, Germany<br>
      _(click images to download pdf)_
