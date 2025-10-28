@@ -22,6 +22,8 @@ For a video tutorial of how to use ProAE with your data:
 
 [PRO-CTCAE Composite Grading Algorithm](https://pubmed.ncbi.nlm.nih.gov/33258687/)
 
+[PRO-CTCAE Best Practices, Dueck et al 2025](https://pubmed.ncbi.nlm.nih.gov/41123546/)
+
 [R Code Snippet from Dueck, et al, Cancer, 2025](https://duecklab.github.io/assets/images/R code snippet_best_practices.pdf)<br>
 
 
