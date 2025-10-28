@@ -69,7 +69,7 @@ We have categorized notable and foundational publications to give more informati
 </details>
 
 <details open>
-  <summary><b>:</b></summary>
+  <summary><b>PRO-CTCAE:</b></summary>
 
   Item generation:<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/25265940/" target="_blank">Basch et al, 2014</a><br><br>
