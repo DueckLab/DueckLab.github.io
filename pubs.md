@@ -51,8 +51,20 @@ We have categorized notable and foundational publications to give more informati
     
   <a href="https://pubmed.ncbi.nlm.nih.gov/30985602/" target="_blank">Stover et al, 2019</a><br><br>
 
-  Best Practices for PROs:<br>
+ NCORP Statistical Issues Mongraph:<br>
     <a href="https://pubmed.ncbi.nlm.nih.gov/39989038/" target="_blank">Bandos et al, 2024</a><br><br>
+
+<a href="https://pubmed.ncbi.nlm.nih.gov/39989042/" target="_blank">Pugh et al, 2025</a><br><br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/39989044/" target="_blank">Unger et al, 2025</a><br><br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/39989036/" target="_blank">Izmirlian et al, 2025</a><br><br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/39989038/" target="_blank">Bandos et al, 2025</a><br><br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/39989043/" target="_blank">Mazza et al, 2025</a><br><br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/39989040/" target="_blank"> Nuño et al, 2025</a><br><br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/39989041/" target="_blank">Monge et al, 2025</a><br><br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/39989037/" target="_blank">Hu et al, 2025</a><br><br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/39989045/" target="_blank">Enserro et al, 2025</a><br><br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/39989035/" target="_blank">Dressler et al, 2025</a><br><br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/39989039/" target="_blank">Snavely et al, 2025</a><br><br>
     
 </details>
 
@@ -201,6 +213,26 @@ Financial Toxicity:<br>
 Alerts:<br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/38771558/" target="_blank">Mazza et al, 2024</a><br><br>
 
+Data Sharing:<br>
+<a href="https://www.icpsr.umich.edu/web/pcodr/studies/39449/versions/V1" target="_blank">Basch et al, 2025</a><br><br>
+
+</details>
+
+<details open>
+  <summary><b>PROs in early phase trials:</b></summary>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/41861833/" target="_blank">Alger et al, 2026</a><br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/41576310/" target="_blank">Alger et al, 2026</a><br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/42057418/" target="_blank">Alger et al, 2026</a><br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/41995717/" target="_blank">Alger et al, 2026</a><br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/39386161/" target="_blank">Yap et al, 2024</a><br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/38968929/" target="_blank">Alger et al, 2024</a><br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/38898479/" target="_blank">Alger et al, 2024</a><br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/40842959/" target="_blank">Wages et al, 2025</a><br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/36394530/" target="_blank">Wages et al, 2022</a><br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/31797421/" target="_blank">Lee et al, 2020</a><br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/37496233/" target="_blank">Andrillon et al, 2025</a><br><br>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/37781154/" target="_blank">Alger et al, 2023</a><br><br>
+
 </details>
 
 <details open>
@@ -211,6 +243,12 @@ Alerts:<br>
     
   Update to Lancet Haematology Commission:<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/35483398/" target="_blank">Thanarajasingam et al, 2022</a><br><br>
+
+<a href="https://pubmed.ncbi.nlm.nih.gov/40447347/" target="_blank">Thanarajasingam et al, 2025</a><br><br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/40447353/" target="_blank">Major et al, 2025</a><br><br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/40447354/" target="_blank">Bhatnagar et al, 2025</a><br><br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/40447355/" target="_blank">Bröckelmann et al, 2025</a><br><br>
+ 
   
   Thanarajasingam ToxT references:<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/27083333/" target="_blank">Thanarajasingam et al, 2016</a><br><br>
