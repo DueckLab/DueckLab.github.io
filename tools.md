@@ -17,9 +17,9 @@ SISAQOL: <a href="https://www.sisaqol.org/" target="_blank">https://www.sisaqol.
   
 CONSORT-PRO: <a href="https://www.equator-network.org/reporting-guidelines/consort-pro/" target="_blank">https://www.equator-network.org/reporting-guidelines/consort-pro/</a><br><br>
 
-CONSORT-PRO SPIRIT-PRO: <a href="https://www.equator-network.org/reporting-guidelines/spirit-pro/" target="_blank">https://www.equator-network.org/reporting-guidelines/spirit-pro/</a><br><br>
+SPIRIT-PRO: <a href="https://www.equator-network.org/reporting-guidelines/spirit-pro/" target="_blank">https://www.equator-network.org/reporting-guidelines/spirit-pro/</a><br><br>
 
-SPIRIT-PRO COSMIN for reporting PRO measurement studies: <a href="https://www.equator-network.org/reporting-guidelines/spirit-pro/" target="_blank">https://www.equator-network.org/reporting-guidelines/spirit-pro/</a><br><br>
+COSMIN for reporting PRO measurement studies: <a href="https://www.equator-network.org/reporting-guidelines/cosmin-reporting-guideline-for-studies-on-measurement-properties-of-patient-reported-outcome-measures/" target="_blank">https://www.equator-network.org/reporting-guidelines/cosmin-reporting-guideline-for-studies-on-measurement-properties-of-patient-reported-outcome-measures/</a><br><br>
 
 Recommendations for using item libraries: <a href="https://pubmed.ncbi.nlm.nih.gov/36725153/" target="_blank">https://pubmed.ncbi.nlm.nih.gov/36725153/</a><br><br>
 
