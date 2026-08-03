@@ -13,6 +13,8 @@ We have categorized notable and foundational publications to give more informati
   
   SISAQOL recommendations (statistical standards for PRO data in randomized trials):<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/32007209/" target="_blank">Coens et al, 2020</a><br><br>
+
+ <a href="https://pubmed.ncbi.nlm.nih.gov/41308689/" target="_blank">Amdal et al, 2025</a><br><br>
   
   CONSORT-PRO extension:<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/23443445/" target="_blank">Calvert et al, 2013</a><br><br>
@@ -137,8 +139,7 @@ Geriatric Assessment and PRO-CTCAE:<br>
   Missing Data Analyses:<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/34420143/" target="_blank">Mazza et al, 2022</a><br><br>
   
-  Advanced Tools for Patient-Reported Adverse Event Analysis in Clinical Trials:<br>
-  <a href="https://prevention.cancer.gov/news-and-events/videos-and-webinars/proae-r-package-advanced-tools-patient-reported-adverse-event" target="_blank">Langlais et al, 2025 (National Cancer Institute Department of Cancer Prevention Webinar)</a><br><br>
+  ProAE for PRO-CTCAE graphics and analysis:<br> <a href="https://pubmed.ncbi.nlm.nih.gov/41422214/" target="_blank">Langlais et al, 2025</a><br><br>
 
   Use of PRO-CTCAE in clinical trials:<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/40989554/" target="_blank">Rogak et al, 2025</a><br><br>
@@ -156,6 +157,10 @@ Geriatric Assessment and PRO-CTCAE:<br>
 
   Meaningful Change:<br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/39503942/" target="_blank">Lee et al, 2024</a><br><br>
+
+Average Composite Score:<br> <a href=" https://pubmed.ncbi.nlm.nih.gov/41228252/" target="_blank">Lee et al, 2025</a><br><br>
+
+PRO-CTCAE in phase I trials:<br> <a href=" https://pubmed.ncbi.nlm.nih.gov/33616650/" target="_blank">Veitch et al, 2021</a><br><br>
 
   Statistical Properties of PRO-CTCAE:<br>
  <a href="https://pubmed.ncbi.nlm.nih.gov/39440720/" target="_blank">Mead-Harvey et al, 2024</a><br><br>
@@ -185,6 +190,10 @@ Electronic Reporting:<br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/35661856/" target="_blank">Basch et al, 2022 (Effect on QOL)</a><br><br>
 
 <a href="https://pubmed.ncbi.nlm.nih.gov/39920394/" target="_blank">Basch et al, 2025 (Final study results)</a><br><br>
+
+<a href="https://pubmed.ncbi.nlm.nih.gov/42119041/" target="_blank">Deal et al, 2026 (Benefits by patient characteristics)</a><br><br>
+
+<a href="https://pubmed.ncbi.nlm.nih.gov/41915775/" target="_blank">Basch et al, 2024 (Final PCORI report)</a><br><br>
 
 Financial Toxicity:<br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/37625107/" target="_blank">Blinder et al, 2023</a><br><br>
