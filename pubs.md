@@ -52,8 +52,6 @@ We have categorized notable and foundational publications to give more informati
   <a href="https://pubmed.ncbi.nlm.nih.gov/30985602/" target="_blank">Stover et al, 2019</a><br><br>
 
  NCORP Statistical Issues Mongraph:<br>
-    <a href="https://pubmed.ncbi.nlm.nih.gov/39989038/" target="_blank">Bandos et al, 2024</a><br><br>
-
 <a href="https://pubmed.ncbi.nlm.nih.gov/39989042/" target="_blank">Pugh et al, 2025</a><br><br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/39989044/" target="_blank">Unger et al, 2025</a><br><br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/39989036/" target="_blank">Izmirlian et al, 2025</a><br><br>
