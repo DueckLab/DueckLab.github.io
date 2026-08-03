@@ -13,9 +13,13 @@ This page contains the various resources and tools that have been created by our
     
  Tolerability Consortium: <a href="https://prevention.cancer.gov/major-programs/cancer-treatment-tolerability-consortium" target="_blank">https://prevention.cancer.gov/major-programs/cancer-treatment-tolerability-consortium/</a><br><br> 
  
-SISAQOL webtool: <a href="https://www.sisaqol-imi.org/interactive-webtool/" target="_blank">https://www.sisaqol-imi.org/interactive-webtool/</a><br><br>
+SISAQOL: <a href="https://www.sisaqol.org/" target="_blank">https://www.sisaqol.org/</a><br><br>
   
-CONSORT-PRO extension (this <a href="http://www.consort-statement.org/extensions/overview/consort-pro">website</a> is currently being updated, all links can be found here): <a href="https://www.equator-network.org/" target="_blank">https://www.equator-network.org/</a><br><br>
+CONSORT-PRO: <a href="https://www.equator-network.org/reporting-guidelines/consort-pro/" target="_blank">https://www.equator-network.org/reporting-guidelines/consort-pro/</a><br><br>
+
+CONSORT-PRO SPIRIT-PRO: <a href="https://www.equator-network.org/reporting-guidelines/spirit-pro/” target="_blank">"https://www.equator-network.org/reporting-guidelines/spirit-pro/</a><br><br>
+
+SPIRIT-PRO COSMIN for reporting PRO measurement studies: <a href="https://www.equator-network.org/reporting-guidelines/spirit-pro/” target="_blank">https://www.equator-network.org/reporting-guidelines/spirit-pro/</a><br><br>
 
 Recommendations for using item libraries: <a href="https://pubmed.ncbi.nlm.nih.gov/36725153/" target="_blank">https://pubmed.ncbi.nlm.nih.gov/36725153/</a><br><br>
 
@@ -29,7 +33,7 @@ Recommendations for using item libraries: <a href="https://pubmed.ncbi.nlm.nih.g
 
   FACT Questionnaires, Scoring & Item Library: <a href="https://www.facit.org/facit-measures-searchable-library" target="_blank">https://www.facit.org/facit-measures-searchable-library</a><br><br>
 
-  Adult Sickle Cell Quality of Life Measurement Information System: <a href="https://https://ascq-me.org/" target="_blank"> https://https://ascq-me.org/</a><br><br>
+  Adult Sickle Cell Quality of Life Measurement Information System: <a href="https://https://air.org/project/ascq-me" target="_blank"> https://https://air.org/project/ascq-me</a><br><br>
   
 </details>
 
@@ -88,8 +92,6 @@ ProAE R Package: Advanced Tools for Patient-Reported Adverse Event Analysis in C
     Posit (formerly R Studio, an interface for R) website: <a href="https://posit.co/download/rstudio-desktop/" target="_blank">https://posit.co/download/rstudio-desktop/</a><br><br>
   
 	Posit (R Studio) cheat sheets: <a href="https://www.rstudio.com/resources/cheatsheets/" target="_blank">https://www.rstudio.com/resources/cheatsheets/</a><br><br>
-	
-	R Commander (another interface for R): <a href="https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/" target="_blank">https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr</a><br><br>
     
   R for Data Science (free book): <a href="https://r4ds.had.co.nz/" target="_blank">https://r4ds.had.co.nz</a><br><br>
   
@@ -114,9 +116,7 @@ ProAE R Package: Advanced Tools for Patient-Reported Adverse Event Analysis in C
 	
 	SWOG statistical tools: <a href="https://stattools.crab.org" target="_blank">https://stattools.crab.org</a><br><br>
     
-    MD Anderson statistical tools:<br>
-    <a href="https://biostatistics.mdanderson.org/softwaredownload/" target="_blank">https://biostatistics.mdanderson.org/softwaredownload/</a><br>
-<a href="https://biostatistics.mdanderson.org/SoftwareDownload/SoftwareOnline/Index/" target="_blank">https://biostatistics.mdanderson.org/SoftwareDownload/SoftwareOnline/Index/</a><br><br>
+    MD Anderson statistical tools: <a href="https://biostatistics.mdanderson.org/SoftwareDownload/SoftwareOnline/Index/" target="_blank">https://biostatistics.mdanderson.org/SoftwareDownload/SoftwareOnline/Index/</a><br><br>
   
 	Phase I, II, and I/II designs (mostly Bayesian, includes BOIN, CRM, Keyboard, & BOP2): <a href=" https://trialdesign.org" target="_blank">https://trialdesign.org</a><br><br>
 	
