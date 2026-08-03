@@ -73,6 +73,7 @@ exclude:
   - vendor/ruby/
   - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
+  - other
 
 # Front Matter Defaults
 defaults:
