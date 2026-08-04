@@ -33,7 +33,7 @@ Recommendations for using item libraries: <a href="https://pubmed.ncbi.nlm.nih.g
 
   FACT Questionnaires, Scoring & Item Library: <a href="https://www.facit.org/facit-measures-searchable-library" target="_blank">https://www.facit.org/facit-measures-searchable-library</a><br><br>
 
-  Adult Sickle Cell Quality of Life Measurement Information System: <a href="https://https://air.org/project/ascq-me" target="_blank"> https://https://air.org/project/ascq-me</a><br><br>
+  Adult Sickle Cell Quality of Life Measurement Information System: <a href="https://https://air.org/project/ascq-me" target="_blank"> https://air.org/project/ascq-me</a><br><br>
   
 </details>
 
